@@ -2,23 +2,27 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-df = pd.DataFrame({
-    "Mês": ["Jan","Fev","Mar","Abr","Mai","Jun"],
-    "Vendas": [120, 145, 98, 200, 175, 230],
-    "Clientes": [40, 55, 35, 80, 70, 95],
-})
+df = pd.read_csv("inscricoes.csv")
 
-st.title("Painel de Vendas")
+df["Dominio"] = df["Email"].str.split("@").str[1]
+df_if = df[df["Dominio"].str.startswith("if", na=False)]
 
-st.write("Resumo dos últimos 6 meses")
+st.title("Dashboard de Inscrições - REDITEC")
+st.write("Análise dos inscritos na REDITEC")
 
-st.subheader("Dados brutos")
-st.dataframe(df, use_container_width=True)
+total_inscritos = len(df)
+st.metric("Total de inscritos", total_inscritos)
+st.subheader("Dados das inscrições")
+dados_exibição = df.drop(columns=["Dominio"])
+st.dataframe(dados_exibição, use_container_width=True)
 
-st.subheader("Vendas por Mês")
-fig_bar = px.bar(df, x="Mês", y ="Vendas")
-st.plotly_chart(fig_bar, use_container_width=True)
+contagem = df_if["Dominio"].value_counts().reset_index()
 
-st.subheader("Tendência de Clientes")
-fig_line = px.line(df, x="Mês", y="Clientes")
-st.plotly_chart(fig_line, use_container_width=True)
+fig = px.bar(
+    contagem,
+    x="Dominio",
+    y="count",
+    title="Inscritos por instituição"
+)
+
+st.plotly_chart(fig, use_container_width=True)
