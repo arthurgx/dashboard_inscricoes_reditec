@@ -21,6 +21,11 @@ FILTER_COLS = [
     "Categoria Inscrição",
 ]
 
+INTEREST_COLS = {
+    "Tem interesse em participar da Corrida da Reditec?": "Interesse na Corrida da Reditec",
+    "Tem interesse em participar da confraternização por adesão?": "Interesse na Confraternização",
+}
+
 
 # ==================== Aba: Inscricoes ====================
 def render_Inscricoes():
@@ -114,6 +119,29 @@ def bar_from_counts(counts: pd.Series, title: str):
     return fig
  
  
+SIM_NAO_COLORS = {"SIM": "#5DADE2", "NÃO": "#E74C3C"}
+
+
+def pie_from_counts(counts: pd.Series, title: str, color_map: dict | None = None):
+    labels = counts.index.tolist()
+    colors = [color_map.get(lbl, "#5DADE2") for lbl in labels] if color_map else None
+    fig = go.Figure(
+        go.Pie(
+            labels=labels,
+            values=counts.values.tolist(),
+            hole=0.45,
+            textinfo="label+percent+value",
+            marker=dict(colors=colors) if colors else {},
+        )
+    )
+    fig.update_layout(
+        title=title,
+        margin=dict(l=10, r=10, t=60, b=10),
+        height=380,
+    )
+    return fig
+
+
 def render_reditec():
     df_raw = load_reditec_data()
  
@@ -150,6 +178,18 @@ def render_reditec():
             with st.expander("Ver tabela"):
                 st.dataframe(counts.rename("Respostas"))
  
+    st.header("Interesse em atividades extras")
+
+    col_e, col_f = st.columns(2)
+    interest_cols_ui = [col_e, col_f]
+
+    for i, (col_name, label) in enumerate(INTEREST_COLS.items()):
+        if col_name not in df.columns:
+            continue
+        counts = df[col_name].dropna().value_counts()
+        with interest_cols_ui[i % 2]:
+            st.plotly_chart(pie_from_counts(counts, label, color_map=SIM_NAO_COLORS), use_container_width=True)
+
     st.header("Perfil dos inscritos")
  
     col_c, col_d = st.columns(2)
