@@ -1,575 +1,644 @@
 #,Nome,Email
 1,Abeilard Bello Pereira Neto,abeilard@iftm.edu.br
-2,Adalton Ozaki,ozaki@ifsp.edu.br
-3,Adma Costa,admacosta@gmail.com
-4,Adriana Estábile Naressi,adriana.naressi@ifms.edu.br
-5,Adriana Guimaraes Costa,adrianagc@ifce.edu.br
-6,Adriana Lima de Sousa,adrianalima@iff.edu.br
-7,Adriana Paula Nogueira dos Santos Lopes,adriana.nogueira@ifal.edu.br
-8,Adriana Thiara Oliveira,adriana.thiara@ifal.edu.br
-9,Adriano Honorato Braga,contato@adrianobraga.com.br
-10,Afram D S Meneses,afram.domingos@ifs.edu.br
-11,Alan Sombra,alan.sombra@ifce.edu.br
-12,Alan Teixeira de Oliveira,alan.oliveira@ifnmg.edu.br
-13,Alan Vinicius de Araújo Batista,alan.vinicius@ifce.edu.br
-14,Alessandra Silva de Sousa Neves,alessandra.sousa@ifb.edu.br
-15,Alessandro Iavorski,alessandro.iavorski@ifc.edu.br
-16,Alessandro Silva Souza Oliveira,alessandro.oliveira@ifap.edu.br
-17,Alex Jussileno Viana Bezerra,alexleno@ifce.edu.br
-18,Alex Oliveira Botelho,diretorgeral.barbacena@ifsudestemg.edu.br
-19,Alexandre Ataide Carniato,carniato@ifsp.edu.br
-20,Alexandre Fieno da Silva (Pouso Alegre),alexandre.silva@ifsuldeminas.edu.br
-21,Alexandre Krüger Zocolotti,akruger@ifes.edu.br
-22,Alexandre Torrezam,alexandre.torrezam@ifmt.edu.br
-23,Aline Cavalcante Ferreira,aline@ifrr.edu.br
-24,Aline Ferreira da Silva,aline.silva@ifs.edu.br
-25,Aline Freitas,diretoria.cefor@ifes.edu.br
-26,Aline Manke Nachtigall,aline.manke@ifsuldeminas.edu.br
-27,Aline Provedel Dib,aline.dib@ifsc.edu.br
-28,ALINE QUARESMA SANTOS,aline.pamponet@ifba.edu.br
-29,Álisson Rodrigo Vieira,arvdigo@gmail.com
-30,Alyne Cristina Sodré Lima,alyne.lima@ifap.edu.br
-31,Alysson Santos Barreto,alysson.barreto@academico.ifs.edu.br
-32,Amanda Silva (DDI),amanda.silva@ifnmg.edu.br
-33,Amélia Cristina Reis e Silva,amelia.reis@ifrn.edu.br
-34,Amir Tauille,amir.tauille@veranopolis.ifrs.edu.br
-35,Ana Carolina Oliveira,carolina@conif.org.br
-36,Ana Cláudia Gonçalves de Sá Jardim,ana.sa@ifnmg.edu.br
-37,Ana Cláudia Uchôa Araújo,ana@ifce.edu.br
-38,Ana Fortaleza Pardo,ana.fortaleza@vacaria.ifrs.edu.br
-39,Ana Kelly Arantes,ana.arantes@ifmg.edu.br
-40,Ana Paula Gonçalves de Oliveira,anapaula.oliveira@ifsudestemg.edu.br
-41,Anderson Allan Almeida Galvão,anderson.galvao@ifb.edu.br
-42,Anderson Braulio Nóbrega da Silva,anderson.silva@ifpb.edu.br
-43,Anderson Martins Corrêa,anderson.correa@ifms.edu.br
-44,ANDERSON OLIVEIRA DA SILVA,anderson.silva@ifma.edu.br
-45,André Batista de Souza,andresouza@ifes.edu.br
-46,André Gustavo de Sousa Galdino,andre.galdino@ifes.edu.br
-47,André Luis Rocha de Souza,andresouza@ifba.edu.br
-48,Andre Luiz de Jesus Goncalves,andre.goncalves@ifg.edu.br
-49,André Narvaes da Rocha Campos,andre.campos@ifsudestemg.edu.br
-50,André Zuconelli,andre.zuconelli@ifc.edu.br
-51,Andrea Marques Rosa Eduardo,andrea.rosa@ifms.edu.br
-52,Andréa Poletto Sonza,andrea.sonza@ifrs.edu.br
-53,Andreilson Oliveira,andreilson.o.silva@gmail.com
-54,Andressa Cristina de Andrade,andresa.andrade@ifb.edu.br
-55,Angela Maria Chaves Miranda,angela.miranda@ifap.edu.br
-56,Anna Carolina Salgado Jardim,annajardim@ifsp.edu.br
-57,Anna Catharina da Costa Dantas,anna.dantas@ifrn.edu.br
-58,Antonio Vitor Ribeiro dos Santos,antonio.santos@ifma.edu.br
-59,Ariadine de Oliveira Rabelo da Silva,ariadine.rabelo@ifce.edu.br
-60,Aurea Yuki Sugai,aurea.sugai@iff.edu.br
-61,Aurino César Santiago de Souza,proad@reitoria.ifpe.edu.br
-62,Ayla Márcia Cordeiro Bizerra,ayla.bizerra@ifrn.edu.br
-63,Bárbarah Sorgetz,barbarah.sorgetz@ifc.edu.br
-64,Benedito Enaldo Araujo de Oliveira,benedito.enaldo@ifpi.edu.br
-65,Braulio Quirino Siffert,braulio.siffert@ifnmg.edu.br
-66,Brenda Tarcício da Silva,brenda.silva@ifsuldeminas.edu.br
-67,Breno Henrique Pedroso Araujo,breno.araujo@ifap.edu.br
-68,Breno Ursulino,breno.anderson@ifce.edu.br
-69,bruce,bruce.albuquerque@ifro.edu.br
-70,Bruna Suelen Pereira Cebuliski,bruna.cebuliski@ifap.edu.br
-71,Bruno Cavalcanti Lima,dg.cac@ifrj.edu.br
-72,Bruno Quirino Leal,bruno.leal@ifg.edu.br
-73,CAMILA DE ALMEIDA SOUSA,camilaalmeida@ifba.edu.br
-74,Canuto Diogenes Saldanha Neto,diogenes.saldanha@ifce.edu.br
-75,Carine de Oliveira Nunes,carinediem@gmail.com
-76,Carla Comerlato Jardim,carla.jardim@iffarroupilha.edu.br
-77,Carla Isabel dos Santos,carla.isabel@ifsp.edu.br
-78,Carlos Alberto Brasiliano Campos,carlos.campos@belojardim.ifpe.edu.br
-79,Carlos Antônio Barbosa Firmino,firmino@ifma.edu.br
-80,Carlos Augusto Sanguedo Boynard,boynard.carlos@gsuite.iff.edu.br
-81,Carlos Eduardo Campos Freire,eduardo.freire@ifrn.edu.br
-82,Carlos José dos Santos (Três Corações),carlos.santos@ifsuldeminas.edu.br
-83,Carlos Roberto Paviotti,carlinhos@ifsp.edu.br
-84,Carolina Mandarini Dias,carolmandarinidias@ifsp.edu.br
-85,Carolina Mendonça de Moraes Duarte,carolina.duarte@ifal.edu.br
-86,Cecília Danielle Bezerra Oliveira,Cecilia.oliveira@ifpb.edu.br
-87,Christine Rebouças Lourenço,christine.lourenco@ifb.edu.br
-88,Cillas Pollicarto da Silva,cillas.silva@ifpi.edu.br
-89,Clarisse Cordeiro Medeiros,clarisse.medeiros@ifma.edu.br
-90,Claudemir Mariotti Junior,juniormariotti@ifsp.edu.br
-91,Claudia da Cunha Monte Oliveira,claudiac@ifes.edu.br
-92,CLAUDIA DA SILVA FERREIRA,claudiaifes@gmail.com
-93,Claudia Santos Fernandes,claudia.fernandes@ifms.edu.br
-94,Claudio de Sousa Galvão,claudiogalvao@ifto.edu.br
-95,Claudio Ferreira Oliveira,claudio.oliveira@ifce.edu.br
-96,Claudio Henrique Fernandes,claudio.fernandes@ifto.edu.br
-97,CLAUDIO ROBERTO DE LIMA MARTINS,direcao.dti@ifpa.edu.br
-98,Clayton Silva Mendes (Reitoria),clayton.mendes@ifsuldeminas.edu.br
-99,Cleilton Sampaio de Farias,cleilton.farias@ifac.edu.br
-100,Clemilton da Silva Ferreira,clemil@ifce.edu.br
-101,Cleone Silva,cleonecc@gmail.com
-102,CLESIO JONAS DE OLIVEIRA DA SILVA,clesio.jonas@ifsertao-pe.edu.br
-103,Cleverton Juliano Alves Vicentini,cleverton.vicentini@ifpr.edu.br
-104,Cristian Cipriani,cristian.cipriani@ifap.edu.br
-105,Cristiane Borges Braga,cristianeborges@ifce.edu.br
-106,Cristiane Milliorin,gabinete.campolargo@ifpr.edu.br
-107,Cristiano Antônio Pochmann,direcao.srs@ifc.edu.br
-108,Cristina Coutinho de Oliveira,cristina.oliveira@ifap.edu.br
-109,Daiane Heinzen,dheinzen@ifsc.edu.br
-110,Daniel Augusto de Oliveira,danielaugusto.oliveira@ifsudestemg.edu.br
-111,Daniel Ferreira de Castro,danielcastro@ifce.edu.br
-112,Daniela Balduino de Souza Vieira,dbalduino@iff.edu.br
-113,Danielle Freire Paoloni,danielle@iftm.edu.br
-114,DANIELLE REGINA ULLRICH,direcao.cacador@ifsc.edu.br
-115,Davi Cézar da Silva,davi.silva@ifc.edu.br
-116,David Silva Franco,david.franco@ifmg.edu.br
-117,DAYONNE SOARES DOS SANTOS,dayonnesoares@ifpi.edu.br
-118,Deir Oliveira de Oliveira,deiroliveira@ifsp.edu.br
-119,Denise Santos,proreitor.proad@ifpa.edu.br
-120,Deuselio Bassini Fioresi,deus.elio40@gmail.com
-121,DIEGO ALBINO MARTINS,diego.martins@ifsc.edu.br
-122,Diego de Abreu Porcellis,diegoporcellis@ifsul.edu.br
-123,Diego Goltara Gomes,diego.gomes@ifsc.edu.br
-124,Diego Nones Bissigo,diego.bissigo@ifsc.edu.br
-125,Diego Silva Xavier,diego.xavier@ifg.edu.br
-126,Diego Ximenes Macedo,diego.macedo@ifce.edu.br
-127,Dielle Filocre,dielle.filocre@ifs.edu.br
-128,Diná Santana de Sousa,dina.santana@ifce.edu.br
-129,Direcao - Campus Tubarao,direcao.tub@ifsc.edu.br
-130,Direção Geral Campus Barreiros,dg@barreiros.ifpe.edu.br
-131,Direção Geral Campus Ipojuca,dgci@ipojuca.ifpe.edu.br
-132,Direcao Geral do Campus Canoinhas,direcao.canoinhas@ifsc.edu.br
-133,Direcao Geral do Campus Garopaba,direcao.garopaba@ifsc.edu.br
-134,Direção Geral IFPE- Campus Afogados da Ingazeira,direcaogeral@afogados.ifpe.edu.br
-135,Direção Geral Sabará,dge.sabara@ifmg.edu.br
-136,Direcao Sao Carlos,direcao.saocarlos@ifsc.edu.br
-137,Direcao-Geral - SLO,direcao.slo@ifsc.edu.br
-138,Direção-Geral: IFC Brusque,direcao.brusque@ifc.edu.br
-139,Diretoria da Assistência Estudantil,dirae@ifrj.edu.br
-140,Diretoria de Comunicacao do IFSC,dir.com@ifsc.edu.br
-141,DIRETORIA DE TECNOLOGIA DA INFORMAÇÃO DTI,dti@reitoria.ifpe.edu.br
-142,Diretoria de Tecnologia da Informacao e Comunicacao,dtic@ifsc.edu.br
-143,Diretoria Geral Campus Parque Olimpico,dg.cpo@ifrj.edu.br
-144,Diretoria Geral do Campus Avançado Mesquita,dg.cmesq@ifrj.edu.br
-145,Diretoria-Geral - Campus Paracambi,dg.cpar@ifrj.edu.br
-146,Diretoria-Geral Campus Engenheiro Paulo de Frontin,dg.cepf@ifrj.edu.br
-147,Diretoria-Geral do Campus Volta Redonda,dg.cvr@ifrj.edu.br
-148,Douglas Hörner,douglas.horner@ifc.edu.br
-149,Eder Junior Cruz de Souza,eder.souza@ifal.edu.br
-150,Edilany Mendonca Vales,edilany.vales@ifap.edu.br
-151,Edilson Ap Bueno,edilson@ifsp.edu.br
-152,Edinei Canuto Paiva,edinei.paiva@ifnmg.edu.br
-153,Edison Cesar de Faria Nogueira,dg.cnil@ifrj.edu.br
-154,Edmar Vinicius de Carvalho,edmar.carvalho@ifto.edu.br
-155,Ednaldo Miranda de Oliveira,ednaldo.oliveira@ifes.edu.br
-156,Edu Gomes Da Silva,edu.silva@ifac.edu.br
-157,Eduardo Jardel Veiga Gonçalves,eduardogoncalves@iftm.edu.br
-158,Eduardo José de Carvalho,eduardo.carvalho@ifap.edu.br
-159,Edvanio Chagas,edvanio.chagas@ifms.edu.br
-160,Eliana Cristina Bar,proen@ifsc.edu.br
-161,Élida Maria Cardoso Brito,elida.brito@ifpi.edu.br
-162,Eloana Costa de Morais,eloana@ifes.edu.br
-163,Elodir Lourenço de Souza,elodir.souza2021@gmail.com
-164,Eloísa Aparecida da Silva Ávila,eloisa.avila@ifg.edu.br
-165,Elvira Alessandra Mariquito,alessandra.mariquito@ifpr.edu.br
-166,Emanuel Alves de Moura,emanuel@ifrr.edu.br
-167,Emanuel Neto Alves de Oliveira,emanuel.oliveira@ifrn.edu.br
-168,Emanuele Catarina da Silva Oliveira,emanuele.oliveira@ifes.edu.br
-169,Emanuelle Andrezza Vidal dos Santos,emanuelle.andrezza@ifce.edu.br
-170,Eptacio Neco da Silva,eptacio.neco@ifpi.edu.br
-171,ERCULES MACHADO ROCHA,ercules.rocha@ifba.edu.br
-172,Érica Crosara,ericacrosara@iftm.edu.br
-173,Erick Renan Xavier de Oliveira,erick.xavier@ifpr.edu.br
-174,Erika Justa,erikadajusta@ifce.edu.br
-175,Eros Silva Spalla,spalla@ifes.edu.br
-176,Eudis Oliveira Teixeira,eudis.oliveira@ifsertao-pe.edu.br
-177,Eugenio De Felice Zampini,eugenio.zampini@ifsp.edu.br
-178,Eunice Palmeira / PRPPI - IFAL,eunicepalmeira@ifal.edu.br
-179,eurobruno,bruno.venancio@ifrn.edu.br
-180,Ewerton Gasparetto da Silva,ewerton.gasparetto@ifpi.edu.br
-181,Ezequiel Lopes do Carmo,ezequiel.carmo@ifto.edu.br
-182,Fabian Eduardo Debenedetti Carbajal,fabiancarbajal@ifsul.edu.br
-183,Fabiana da Silva Campos Almeida,proen@ifrj.edu.br
-184,Fabiana Júlia de Araújo Tenório,direcao@pesqueira.ifpe.edu.br
-185,Fabiana Zanelato Bertolde,fabianabertolde@ifba.edu.br
-186,Fábio André Porto Alves,fabio.andre@ifsertao-pe.edu.br
-187,Fábio Cabral,cabral@ifsp.edu.br
-188,Fábio de Albuquerque Silva,fabio.albuquerque@ifpb.edu.br
-189,Fabio Henrique de Oliveira Silva,fabio.silva@ifmt.edu.br
-190,Fabio Lyrio Santos,fabio.santos@ifes.edu.br
-191,Fábio Ribeiro,fabio.ribeiro@ifal.edu.br
-192,Fabio Roberto Moraes Lemes,fabiolemes@ifsul.edu.br
-193,Fabricia Nadja De Oliveira Freire,fabricia.nadja@ifsertao-pe.edu.br
-194,Fabricio Faria,fabricio.tavares@ifsudestemg.edu.br
-195,Fabrício Ribeiro Ribeiro,fabricio.ribeiro@ifap.edu.br
-196,Felipe Augusto Ferreira de Almeida,felipe.almeida@ifsp.edu.br
-197,Felipe Brener Bezerra de Oliveira,felipe.oliveira@ifap.edu.br
-198,FELIPE DE ANGELIS,felipeangelis@mec.gov.br
-199,Felipe Thiago Caldeira de Souza,felipe.souza@ifal.edu.br
-200,Fernanda dos Santos Nogueira,fernanda.nogueira@ifes.edu.br
-201,Fernanda Figueiredo Torres,fernanda.torres@conif.org.br
-202,Fernanda Honorato,fernanda.honorato@ifmg.edu.br
-203,Fernando Barreto Rodrigues fernando.barreto,fernando.barreto@ifnmg.edu.br
-204,Fernando Carneiro / DTI - IFAL,fernando.carneiro@ifal.edu.br
-205,Fernando Henrique Gomes de Souza,fernando.souza@ifsp.edu.br
-206,Fernando Silva Lima,fernando.silva@ifma.edu.br
-207,Fernando Silveira Alves,fernando.alves@ifms.edu.br
-208,Firmiano Alexandre dos Reis Silva,firmiano@iftm.edu.br
-209,FLAVIA DUARTE FERRAZ SAMPAIO,flavia.sampaio@ifes.edu.br
-210,Flávia Twardowski,flavia.pinto@ifrs.edu.br
-211,Flavio Aparecido Pontes,flaviopontes@ifsp.edu.br
-212,Flávio Glória Caminada Sabrá,dg.cbel@ifrj.edu.br
-213,Flavio Guilherme de Abreu Drumond,flavio.drumond@ifto.edu.br
-214,Flávio José Ribeiro,dg.cpx@ifrj.edu.br
-215,Flávio Rocha Puff,flavio.puff@ifmg.edu.br
-216,Franciéric Alves,eric@ifpi.edu.br
-217,Franciolli Silva Dantas de Araújo,franciolli.araujo@ifap.edu.br
-218,Francisca Lucia Sousa de Aguiar,lucia.aguiar@ifce.edu.br
-219,Francisco De Assis De Lima Gama,francisco.gama@ifsertao-pe.edu.br
-220,Francisco Do Nascimento Junior,francisco.junior@jaboatao.ifpe.edu.br
-221,Francisco Evandro de Melo,evandromelo@ifce.edu.br
-222,Francisco Hamilton Junior,francisco.hamilton@ifsertao-pe.edu.br
-223,Francisco Heber da Silva,heber.silva@ifce.edu.br
-224,Francisco Jadilson dos Santos Silva,francisco.jadilson@ifma.edu.br
-225,FRANCISCO NOGUEIRA LIMA,nogueira@ifpi.edu.br
-226,GABRIELA COSTA,gabriela.freitas@ifba.edu.br
-227,Gelson Luiz Clemente Rodrigues,gelson.rodrigues@ifpi.edu.br
-228,George Gaudêncio,george.gaudencio@paulista.ifpe.edu.br
-229,George Jose dos Santos Lima,georgelima@ifpi.edu.br
-230,Geovane Griesang,geovanegriesang@ifsul.edu.br
-231,Gerffeson Thiago Mota de Almeida Silva,gerffeson.mota@ifpi.edu.br
-232,Germano Lucio Pereira Moura,germanolucio@ifpi.edu.br
-233,Germano Teixeira Cruz,germano.cruz@ifb.edu.br
-234,Gesilane de Oliveira Maciel Jose,gesilane.jose@ifms.edu.br
-235,Gesus de Almeida Trindade,gesus.trindade@ifba.edu.br
-236,Giancarlo de França Aguiar,giancarlo.aguiar@ifpr.edu.br
-237,giano.copetti@ifb.edu.br,giano.copetti@ifb.edu.br
-238,Gilberto Neto,gilberto.neto@ifal.edu.br
-239,Gilceli Chagas Moura,gilceli.moura@ifap.edu.br
-240,Gildo Sousa dos Santos Junior,gildo.junior@ifrr.edu.br
-241,Giovani Calerri,Giovani.junior@ifrr.edu.br
-242,Gisley Lima de Menezes,gisley.menezes@ifpr.edu.br
-243,Gismar Schilive de Souza,gismar.souza@ifpr.edu.br
-244,Givaldo Oliveira dos Santos,givaldo.oliveira@ifal.edu.br
-245,Gláucio José Pereira da Silva,glaucio.silva@iff.edu.br
-246,Gleyce Figueiredo de Lima,dg.csg@ifrj.edu.br
-247,Graziela Ninck Dias Menezes,grazielaninck@ifba.edu.br
-248,Guilherme Henrique Koerich,guilherme.koerich@ifsc.edu.br
-249,Guilherme Mendes de Almeida Carvalho guilherme.carvalho,guilherme.carvalho@ifnmg.edu.br
-250,Gustavo Pereira Pessoa,gustavo.pessoa@ifmg.edu.br
-251,Haroldo Lacerda de Brito,haroldo.brito@ifmg.edu.br
-252,Heitor Hermeson de Carvalho Rodrigues,heitor.rodrigues@ifce.edu.br
-253,Hellen da Silva Cintra de Paula,hellen.paula@ifg.edu.br
-254,Henrique Ziglia Maia,henriquemaia@ifsul.edu.br
-255,Heverton Lima de Andrade,heverton.andrade@ifal.edu.br
-256,HIngryd Inácio de Freitas,hifreitas@ifba.edu.br
-257,Humberto Coelho de Melo,humberto.melo@ifmg.edu.br
-258,Inara Erice de Souza Alves Raulino Lopes,inara.raulino@ifpi.edu.br
-259,Ione,ione.velame@ifg.edu.br
-260,Irinéia Rosa do Nascimento,irineia.rosa@ifs.edu.br
-261,Isa Prazeres Pestana,isa.prazeres@ifma.edu.br
-262,Israel Vinagre Pinto,israel.pinto@ifap.edu.br
-263,Ivam Holanda de Souza,ivam@ifce.edu.br
-264,Ivani Ferreira,ivani.ferreira@ifpr.edu.br
-265,Ivo Cardoso de Jesus,ivocardoso@ifba.edu.br
-266,Izolina Angela da Silva Borges Lima,izolina.borges@ifma.edu.br
-267,Jacqueline Aparecida da Fonseca Martins,jacqueline.martins@ifrj.edu.br
-268,Jacson Hudson Inácio Ferreira,jacson@iftm.edu.br
-269,Jacssane do Couto (Reitoria),jacssane.couto@ifsuldeminas.edu.br
-270,Jairton Mendonca,jairton.mendonca@ifs.edu.br
-271,Janaína de Assis Rufino,janaina.rufino@ifsudestemg.edu.br
-272,JANAINA PERES,janaina@ifpi.edu.br
-273,Jandherson Moura Silva,jandherson.silva@ifma.edu.br
-274,Jane Velma dos Santos Brito,janevelma.brito@ifs.edu.br
-275,Jânio Fernandes e Silva,janio.silva@ifma.edu.br
-276,JEAN CARLOS GITASSI,JEAN.GETASSI@IFSC.EDU.BR
-277,Jeferson Fernando de Souza Wolff,jefersonwolff@ifsul.edu.br
-278,Jenice Almeida Lopes Diniz,jenice.diniz@ifpi.edu.br
-279,Jeovani Machado Rodrigues,jeovani@ifma.edu.br
-280,Jerdmiler Gomes de Paiva,paiva.jerdmiler@ifrn.edu.br
-281,Jhonatan Dias Gomes,jhonatan.gomes@ifap.edu.br
-282,João Bezerra da Silva Junior,1654758@ifb.edu.br
-283,João Leandro,joao.cassio@ifnmg.edu.br
-284,Joelia Marques de Carvalho,joelia@ifce.edu.br
-285,Jonaldo Oliveira de Medeiros,jonaldo.medeiros@ifrn.edu.br
-286,JOSÉ ALVES JUNQUEIRA JUNIOR,jose.junqueira@ifsudestemg.edu.br
-287,José Arnóbio de Araújo Filho,arnobio.araujo@ifrn.edu.br
-288,Jose dos Santos de Moura,santos.moura@ifpi.edu.br
-289,José Franco de Azevedo,jose.franco@ifs.edu.br
-290,José Geraldo Bezerra Galvão Júnior,geraldo.junior@ifrn.edu.br
-291,José Hermano Cavalcanti Filho,jose.cavalcanti@ifpb.edu.br
-292,José Manoel Martins,jose.manoel@ifsudestemg.edu.br
-293,José Marcelo Velloso de Oliveira,dg.cnit@ifrj.edu.br
-294,José Osman dos Santos,Osman.santos@ifs.edu.br
-295,José Ricardo,josericardo@iftm.edu.br
-296,José Roberto,jose.santos@ifrn.edu.br
-297,Jose Roberto da Silva,j.roberto@ifsp.edu.br
-298,José Severino Bento,josebento@recife.ifpe.edu.br
-299,José Valdir Damascena Araújo,jvdaraujo@ifma.edu.br
-300,Jose Wally Meondonça Menezes,wally@ifce.edu.br
-301,José Werbet Ferreira da Silva,Josewerbet@ifma.edu.br
-302,José Willams Nogueira da Costa,jose.willams@ifsertao-pe.edu.br
-303,Jouberte Maria,prodin@reitoria.ifpe.edu.br
-304,Joyce Gracielle de Sousa Braga,joycebraga@iftm.edu.br
-305,Juliana Bárbara Moraes,jbarbara@ifsp.edu.br
-306,Juliana Ferreira de Queiroz,juliana.queiroz@ifto.edu.br
-307,Juliana Lucia do Amaral Molnr,juliana.molnr@ifsp.edu.br
-308,Juliana Rodrigues de Almeida,juliana.rodrigues@ifsudestemg.edu.br
-309,Julio Korzekwa,juliokorzekwa@ifsul.edu.br
-310,Júlio Xandro HEck,julio.heck@ifrs.edu.br
-311,Júnio Jáber,junio.jaber@ifnmg.edu.br
-312,Karine Andrade Fonseca,karine.fonseca@ifnmg.edu.br
-313,Karine Campos,karine.campos@ifap.edu.br
-314,Katia Cilene Costa Fernandes,katia.fernandes@ifg.edu.br
-315,Keila R M Mourao,proreitor.proex@ifpa.edu.br
-316,Kelvio Felipe dos Santos,felipe.kelvio@ifce.edu.br
-317,Keyla Oliveira da Silva,keyla.silva@ifac.edu.br
-318,Klemmerson Amariz Gomes,klemmerson.amariz@ifsertao-pe.edu.br
-319,Kleyton Matos Moreira,kleyton.moreira@ifto.edu.br
-320,LARA BRENDA CAMPOS TEIXEIRA KUHN,larakuhn@iftm.edu.br
-321,Larissa Sussuarana Batista,larissa.batista@ifap.edu.br
-322,Laura Regine Silveira,laura.silveira@ifms.edu.br
-323,Lauro Santos Pinheiro,lauro.itz@ifma.edu.br
-324,Leandro Camatta de Assis,leandrocamatta@ifes.edu.br
-325,Leandro da Motta Borges,leandro.borges@ifsudestemg.edu.br
-326,Leandro Lumbieri,leandro.lumbieri@farroupilha.ifrs.edu.br
-327,Leandro Roberto Baran,leandro.baran@ifpr.edu.br
-328,Leonardo de Miranda Siqueira,leonardo.siqueira@ifes.edu.br
-329,Leonardo de Paiva Barbosa,leonardo.paiva@ifmg.edu.br
-330,Leonardo Freitas Galvão de Albuquerque,leonardo.freitas@ifce.edu.br
-331,Leovegildo Branco Dominice Neto,leovegildo.neto@ifma.edu.br
-332,Leticia Carvalho Pivetta,leticia.carvalho@ifro.edu.br
-333,Letícia Martins de Martins,leticia.martins@rolante.ifrs.edu.br
-334,Liana Siqueira do Nascimento Marreiro Thomaz,liana.marreiro@ifpi.edu.br
-335,Lídia B. Paiva Tomaz,lidia@iftm.edu.br
-336,Liliane Silva Penã Oliveira,liliane.oliveira@ifmt.edu.br
-337,Lincoln Tavares dos Santos,lincoln.santos@igarassu.ifpe.edu.br
-338,Lindemberg Costa Junior,lindemberg.junior@ifma.edu.br
-339,Lívia Tâmara Alves de Macêdo,livia@ifpi.edu.br
-340,Lorena Faustino,lorena.faustino@ifrn.edu.br
-341,Lorena Pereira de Souza Rosa,lorena.rosa@ifg.edu.br
-342,Lourenilson Leal de Sousa,lourenilson@ifpi.edu.br
-343,Luam de Oliveira Santos,luam.santos@ifs.edu.br
-344,Lucas Vanini,lucasvanini@ifsul.edu.br
-345,Lucia Scott Franco de Camargo Azzi Collet,lucia.collet@ifsp.edu.br
-346,Luciana dos Santos Tavares,direcao.geral@olinda.ifpe.edu.br
-347,Luciana Leandro Silva,luciana.silva@ifrr.edu.br
-348,Luciana Rocha,luciana.rocha@ifpi.edu.br
-349,Luciano Martignoni,luciano.martignoni@ifpr.edu.br
-350,Lucila Picoli,lucila@ifes.edu.br
-351,Lucilene de Sousa Melo,lucilene.melo@ifap.edu.br
-352,Luis Lucas Dantas da Silva,direcao@vitoria.ifpe.edu.br
-353,Luis Osete Ribeiro Carvalho,luis.osete@ifsertao-pe.edu.br
-354,Luísa Luz Marçal,proppi@ifrj.edu.br
-355,Luiz Adriano,luiz.adriano@ifto.edu.br
-356,Luiz Alberto Chaves Junior,dg.csjm@ifrj.edu.br
-357,Luiz Eduardo Guedes,luiz.guedes@ifac.edu.br
-358,Luygo Sarmento Guedes,luygo.guedes@ifap.edu.br
-359,Magadã Marinho Rocha de Lira,magadanlira@gmail.com
-360,Maick da Silveira Viana,proex@ifsc.edu.br
-361,Maíra Maciel Mattos de Oliveira,mairammoliveira@gmail.com
-362,Manassés Ribeiro,direcao.videira@ifc.edu.br
-363,Manoel Alves Cordeiro Neto,manoel.neto1@ifsertao-pe.edu.br
-364,Manoel Paiva de Araújo Neto,manoel.paiva@ifce.edu.br
-365,Marcel Ribeiro Mendonca,marcel.ribeiro@ifce.edu.br
-366,Marcela dos Santos Sá,marcela.sa@ifrr.edu.br
-367,Marcelo Andrade,marcelo.andrade@ifce.edu.br
-368,Marcelo Bataglin,marcelo.bataglin@iffarroupilha.edu.br
-369,Marcelo Lima Calixto,marcelo.calixto@feliz.ifrs.edu.br
-370,Márcio Melo de Oliveira,marcio@ifba.edu.br
-371,Marcio Rodrigo Nunes de Souza,marcio.souza@ifap.edu.br
-372,Marco Antonio Goiabeira Torreao Filho,marco.filho@ifma.edu.br
-373,Marcos Antônio Dell'Orto Morgado,marcos.morgado@ifes.edu.br
-374,Marcos César Eugênio Botta,marcoscesar@iftm.edu.br
-375,Marcos Flavio Mercio de Oliveira,marcos.oliveira@ifg.edu.br
-376,Marcos Maia,marcos.maia@ifpr.edu.br
-377,Marcos Pereira dos Santos,marcos.pereira@ifs.edu.br
-378,Marcos Roberto da Silva,marcossilvabiral@gmail.com
-379,Marcos Vinícius Montanari,marcos.montanari@ifnmg.edu.br
-380,Marcus Buraslan,marcus.buraslan@ifap.edu.br
-381,Marcus Fogaça,marcus.fogaca@conif.org.br
-382,MARIA CLARA BEZERRA DE ARAUJO,clara.bezerra@ifrn.edu.br
-383,Maria de Fátima Neves Cabral,direcao.geral@abreuelima.ifpe.edu.br
-384,Maria Lucia Fernandes Barroso,maria.barroso@ifap.edu.br
-385,Maria Lúcia Gabriel Ricardo Batista Freire,lucia.silva@ifal.edu.br
-386,Maria Michele Colaco Pinheiro,michele.colaco@ifce.edu.br
-387,Marilda Pontes Lacerda da Silva,marilda.lacerda@ifpr.edu.br
-388,Marinelma Costa Meireles,marinelma.meireles@ifma.edu.br
-389,Mario de Oliveira Rebouças Neto,mario.oliveira@ifce.edu.br
-390,Mario Wedney de Lima Moreira,mario.wedney@ifce.edu.br
-391,Maron Stanley Silva Oliveira Gomes,maron@ifma.edu.br
-392,Mary Roberta Meira Marinho,mary.marinho@ifpb.edu.br
-393,Matsunaga Paulo de Oliveira Sekiguchi,matsunaga.sekiguchi@ifac.edu.br
-394,Mauricio Donato de Moura Junior,mauricio.junior@ifto.edu.br
-395,Mauricio Martins Taques,mtaques@ifsc.edu.br
-396,Mauro André Barbosa Cunha,maurocunha@ifsul.edu.br
-397,Mayara de Sousa Guimarães Fonseca,mayara.fonseca@ifpb.edu.br
-398,Mayara Salgado Silva,silvams@ifce.edu.br
-399,MESSENAS MIRANDA ROCHA,messenas.rocha@ifes.edu.br
-400,Miguel Angelo Pereira Dinis,migueldinis@ifsul.edu.br
-401,Mirella Januario Magioni,mirella.magioni@ifrr.edu.br
-402,Murilo Secchieri de Carvalho,murilo.carvalho@ifsp.edu.br
-403,Nadine de Biagi Ziesemer,nadine.biagi@ifpr.edu.br
-404,Nalva Maria Rodrigues de Sousa,nalva@ifpi.edu.br
-405,Natália Ferraz Pavanelli,natalia.ormond@ifmt.edu.br
-406,Natalino Da Silva Reis,natalino.reis@ifap.edu.br
-407,Nataniel Mendes da Silva,nataniel@ifma.edu.br
-408,Natasha Cristina da Silva Costa,natasha.costa@ifap.edu.br
-409,Nathália Bastos Lima,nathalia.bastos@iff.edu.br
-410,Nathalia Luiz de Freitas Braga,nathaliadefreitas@yahoo.com.br
-411,Neilson Oliveira da Silva,neilson.silva@ifap.edu.br
-412,Nelson Santos,nelson.santos@ifba.edu.br
-413,Neudy Alexandro Demichei,neudy.demichei@ifrs.edu.br
-414,Nídia Heringer,nidia.heringer@iffarroupilha.edu.br
-415,Nilra Jane F. Bezerra,nilrajane@ifrr.edu.br
-416,Nilton Nélio Cometti,nilton.cometti@gmail.com
-417,Nilva Maria dos Santos Rodrigues,nilva.rodrigues@ifg.edu.br
-418,Nilvan Carvalho Melo,nilvan.melo@ifap.edu.br
-419,Noemi Barreto Sales Zukowski,zukowski@ifto.edu.br
-420,Odimógenes Soares Lopes,odimogenes@ifpi.edu.br
-421,Olavo Nylander Brito Neto,olavo.brito@ifap.edu.br
-422,ONEIDA CRISTINA GOMES BARCELOS IRIGON,oneida.irigon@ifg.edu.br
-423,Patrícia Nogueira Hübler,patricia.hubler@canoas.ifrs.edu.br
-424,Paula Andrea Grawieski Civiero,paula.civiero@ifc.edu.br
-425,Paulo César Lopes de Arruda,paulo.arruda@ifpi.edu.br
-426,Paulo Henrique,paulohenrique@ifpi.edu.br
-427,Paulo Henrique de Carvalho Bueno,paulo.bueno@ifpi.edu.br
-428,Paulo Henrique Sales Wanderley,paulo.wanderley@ifb.edu.br
-429,Paulo Henrique Silva Ribeiro,paulo.henrique@ifb.edu.br
-430,Paulo Sergio Horst,paulo.horst@ifpr.edu.br
-431,Pedro Clei Sanches Macedo,pedro.macedo@ifap.edu.br
-432,Plinio Alexandre dos Santos Caetano,plinio@ifsp.edu.br
-433,Priscila Porta Nova de Oliveira,priscila.oliveira@iffarroupilha.edu.br
-434,PRISCILA VALE,priscila.vale@ifba.edu.br
-435,Priscylla Dietz Ferreira Amaral,priscylla.amaral@ifg.edu.br
-436,Pró-Reitoria de Planejamento e Administração,proad@ifrj.edu.br
-437,PROAD - IFC,proad@ifc.edu.br
-438,PROREITOR PROGEP,proreitor.progep@ifpa.edu.br
-439,Proreitor PROPPG,proreitor.proppg@ifpa.edu.br
-440,Raelisson do Nascimento Walter,raelisson.walter@ifac.edu.br
-441,Rafael Bastos,rafaelbastos@ifsul.edu.br
-442,Rafael Krolow Santos Silva,pl-dirger@ifsul.edu.br
-443,Rafael Martins Chaves,rafael.chaves@ifmt.edu.br
-444,Rafael Martins Ribeiro,rafael.ribeiro@ifmg.edu.br
-445,Raimundo Nonato,prof.nonato@ifpi.edu.br
-446,Raimundo Nonato Assunção de Sousa,raimundofilho@ifma.edu.br
-447,Raimundo Pio Mendes Vieira Júnior,raimundo.pio@ifpi.edu.br
-448,Ramon Gustavo Teodoro Marques da Silva (Reitoria),ramon.silva@ifsuldeminas.edu.br
-449,Raphael Augusto Vaz dos Santos,raphael.vaz@ifro.edu.br
-450,Raphael Siqueira Fontes,raphael.fontes@ifrn.edu.br
-451,Rebeca Marcilio Araujo Capdeville Campanha,raraujo@iff.edu.br
-452,Reginaldo Vagner Ferreira,reginaldo.ferreira@ifmg.edu.br
-453,Reginaldo Vicente Ribeiro,reginaldo.ribeiro@ifmt.edu.br
-454,Reinaldo,reinaldo.reis@ifg.edu.br
-455,Reinaldo de Araújo Lopes,reinaldo.lopes@ifpi.edu.br
-456,Rejane Tavares Magalhaes da Cunha,rejanetavares@ifce.edu.br
-457,Renata Francisca Ferreira Lopes,renata.lopes@ifmt.edu.br
-458,Renata Marques dos Santos,renatamarques@iftm.edu.br
-459,Renato Aparecido de Souza (Reitoria),renato.souza@ifsuldeminas.edu.br
-460,Renato Delmonico,renato.delmonico@ifro.edu.br
-461,Renato Marinho Brandão Santos,renato.marinho@ifrn.edu.br
-462,Reuber Saraiva de Santiago,reuber@ifce.edu.br
-463,Reynaldo Tancredo Amim,reynaldo.amim@iff.edu.br
-464,Ricardo José Ferreira,ricardo.ferreira@ifpb.edu.br
-465,Ricardo Monteiro Rocha,ricardo.rocha@ifs.edu.br
-466,Ricardo Rodrigues de Souza,ricardo.souza@ifpr.edu.br
-467,Ricardo Wiliam Pinheiro,ricardopinheiro@iftm.edu.br
-468,Ricardo Zanchett,direcao.xanxere@ifsc.edu.br
-469,Roberta Mouzzana Cutrim Costa,roberta.costa@ifma.edu.br
-470,Robson Caldas de Oliveira,2086160@ifb.edu.br
-471,Robson da Silva Siqueira,siqueira@ifce.edu.br
-472,Robson Malacarne,robson.malacarne@ifes.edu.br
-473,Robson Trevisan,robson.trevisan@ifap.edu.br
-474,Rodrigo Oliveira Porto,rodrigo.porto@ifto.edu.br
-475,Rodrigo Otávio Câmara Monteiro,rodrigo.monteiro@bento.ifrs.edu.br
-476,Rodrigo Ricelly Avelino Leite,rodrigoricelly@gmail.com
-477,Roger Almeida Gomes,roger.gomes@ifce.edu.br
-478,Rogério de Mesquita Teles,rogerioteles@ifma.edu.br
-479,Rogério de Souza Versage,direcao.fln@ifsc.edu.br
-480,Romaro Silva,romaro.silva@ifap.edu.br
-481,Rômulo Alves de Oliveira,romulo.oliveira@ifs.edu.br
-482,Romulo Ifes,romuloifes@gmail.com
-483,Rosana Abbud Olivete,rosana.abbud@ifsp.edu.br
-484,Rosiani Salviano Barros,rosiani.barros@ifap.edu.br
-485,ROSILENE DE SÁ RIBEIRO,rosilene@ifes.edu.br
-486,Rosilene dos Anjos Sant'Ana,rosilene.santana@ifnmg.edu.br
-487,Rossana Barros Silveira,rossana@ifce.edu.br
-488,Rubens Maciel Miranda Pinheiro,rubens.pinheiro@ifce.edu.br
-489,Ruberley Rodrigues de Souza,ruberley.souza@ifg.edu.br
-490,Rui Gonçalves de Souza,rui.goncalves@ifsudestemg.edu.br
-491,Ruthelle Maria de Carvalho Sousa,ruthelle.carvalho@ifpi.edu.br
-492,Samara Viana,samaraviana@ifpi.edu.br
-493,Samira Fernandes Delgado,samira.delgado@ifrn.edu.br
-494,Samuel de Carvalho Andrade,samuel.andrade@ifap.edu.br
-495,Samuel de Oliveira,samuel.de.oliveira@ifmg.edu.br
-496,Samuel Lázaro Luz Lemos,samuel.lemos@ifce.edu.br
-497,Sanandreia Torezani Perinni,sanandreia@ifes.edu.br
-498,SANDRA ABADIA FERREIRA,sandra.ferreira@ifg.edu.br
-499,Sandra Aparecida da Silva Pereira,sandra.pereira@cabo.ifpe.edu.br
-500,Sandra Ines Horn Bohm,sandra.bohm@ifap.edu.br
-501,Sandra Vieira,sandra.vieira@ifc.edu.br
-502,Saulo Carvalho de Souza Timóteo,saulodede@ifto.edu.br
-503,Saulo Henrique da Mata,saulodamata@iftm.edu.br
-504,Selma Silva Bezerra,selma.bezerra@ifal.edu.br
-505,Sergio Luiz de Freitas Maia,sergio@iftm.edu.br
-506,Sergio Wesner Viana,sergio.viana@poa.ifrs.edu.br
-507,Silvana Lazzarotto Schmitt,silvana.schmitt@ifpr.edu.br
-508,Silvani da Silva Wingler,silvanis@ifes.edu.br
-509,Silvilene Souza da Silva,sylsousyl@gmail.com
-510,Silvio Anderson Toledo Fernandes,silvio.fernandes@ifsudestemg.edu.br
-511,Siméa Paula de Carvalho Ceballos,simea.pceballos@gmail.com
-512,Simone Silva,direcao.palhoca@ifsc.edu.br
-513,Sonia Carla Gravena Candido da Silva,sonia.carla@ifro.edu.br
-514,suzenilde costa maciel,suzenilde.maciel@ifma.edu.br
-515,Tangriane Hainiski Ramos,tangriane.ramos@ifpr.edu.br
-516,Tania Mara Miyashiro Sasaki,tania.sasaki@ifms.edu.br
-517,Tarso Latorraca Casadei,tarso.latorraca@ifrn.edu.br
-518,Tatiana Weber,tatiana.weber@ifrs.edu.br
-519,Tatiane Cristina Ferreira Santos Trombim,tatiane.trombim@ifap.edu.br
-520,Tatiane da Silva Campos,tatiane.silva@ifsc.edu.br
-521,Taua Carvalho de Assis,taua.assis@ifg.edu.br
-522,Tereza Rocha,dg.cduc@ifrj.edu.br
-523,Tereza Talyta Carvalho de Moura,tereza.talyta@ifma.edu.br
-524,Thais Leite,thaisleite@ifba.edu.br
-525,Thales Bittencourt,thales.oliveira@iff.edu.br
-526,Theo Bravo Pinheiro,theo.pinheiro@iff.edu.br
-527,Thiago,thiago.gomes@ifnmg.edu.br
-528,Thiago Matos Pinto,thiago.pinto@ifrj.edu.br
-529,Thiago Mello,p2400mhz@gmail.com
-530,Thiego Maciel Nunes,thiego.nunes@ifap.edu.br
-531,TIAGO PEDRADA,tiago.pedrada@ifap.edu.br
-532,Tiago Semprebom,proppi@ifsc.edu.br
-533,Tomás Armando del Pozo Hernández,tomas.hernandez@ifrr.edu.br
-534,ÚRSULA MARIA FRANCO MONTEIRO MALAQUIAS,ursula.franco@ifpi.edu.br
-535,Vagner Euzebio Bastos,vagnerbastos@ifsul.edu.br
-536,Valdenor Santos Oliveira,valdenor.oliveira@ifmt.edu.br
-537,Valdiná Regis Lopes Feitosa,valdina.feitosa@ifb.edu.br
-538,Valdomir Araujo de Carvalho,valdomir@ifma.edu.br
-539,Valeria Regina,valeria.carvalho@ifrn.edu.br
-540,Valmir Soares - Diretor IFCE Limoeiro do Norte,valmir.soares@ifce.edu.br
-541,Valter Lenine Fernandes,valterfernandes@ifsul.edu.br
-542,Vanderluce Moreira Machado Oliveira,vanderluce.machado@ifmt.edu.br
-543,Vanessa Grando,grando@ifsc.edu.br
-544,Vanicleia Oliveira Da Silva,vanicleia.oliveira@ifsertao-pe.edu.br
-545,Venilson Luciano Benigno Fonseca,venilson.luciano@ifmg.edu.br
-546,Vera Rejane Gomes,verarejane@ifma.edu.br
-547,Vilmar Fernandes,vilmar.fernandes@ifpr.edu.br
-548,Vilson Heck Junior,direcao.lages@ifsc.edu.br
-549,Vinicius Carvalhaes,vinicius.carvalhaes@ifg.edu.br
-550,Vinícius Chrysóstomo Silva,vsilva@iff.edu.br
-551,Vinicius De Luca Filho,vinidelucca@gmail.com
-552,viniciusdias,vinicius.dias@ifpi.edu.br
-553,virgilio araripe,virgilio@ifce.edu.br
-554,Vivian Facundes Dantas,vivian@ifto.edu.br
-555,Viviane Campanhola Bortoluzzi,viviane.bortoluzzi@ifrs.edu.br
-556,Wagner Belo,wagner.belo@ifsp.edu.br
-557,Wagner Leite Araujo,wagner.leite@ifnmg.edu.br
-558,Wallace Magalhaes Trindade wallace.trindade,wallace.trindade@ifnmg.edu.br
-559,Wanderson Amaral da Silva,wanderson.silva@iff.edu.br
-560,Wanderson Luis Henrique Faustino,wanderson.faustino@ifms.edu.br
-561,Washington Luis Ferreira Conceição,washington.conceicao@ifma.edu.br
-562,Weimar Silva Castilho,weimar@ifto.edu.br
-563,Welkson Nascimento,welkson.nascimento@ifs.edu.br
-564,Wellington Spencer Peixoto,wspeixoto@ifal.edu.br
-565,Wemerton Luis Evangelista,wemerton.evangelista@ifmg.edu.br
-566,Wilian Santos de Souza,wiliansantos@iftm.edu.br
-567,Willerson Custódio da Silva,willerson.silva@ifmg.edu.br
-568,William Corrêa Mendes,william.mendes@ifma.edu.br
-569,Willian Silva de Paula,willian.paula@ifmt.edu.br
-570,Wilson Augusto Costa Cabral,wilson.cabral@ifes.edu.br
-571,Wilson José Vieira da Costa,wilson.costa@ifmg.edu.br
-572,Wyara Da Silva Do Espirito Santo,wyara.espiritosanto@ifsertao-pe.edu.br
-573,Zizimo Moreira Filho,zizimo@ifsc.edu.br
-574,Zoroastro Pereira de Araújo Neto,zoroastro.neto@ifal.edu.br
+2,ACENILSO LIMA DE ARAUJO,acenilso@ifpi.edu.br
+3,Adalton Ozaki,ozaki@ifsp.edu.br
+4,Adma Costa,admacosta@gmail.com
+5,Adriana Estábile Naressi,adriana.naressi@ifms.edu.br
+6,Adriana Guimaraes Costa,adrianagc@ifce.edu.br
+7,Adriana Lima de Sousa,adrianalima@iff.edu.br
+8,Adriana Paula Nogueira dos Santos Lopes,adriana.nogueira@ifal.edu.br
+9,Adriana Thiara Oliveira,adriana.thiara@ifal.edu.br
+10,ADRIANA VALÉRIA GOMES CORIOLANO,valeria.coriolano@ifsertao-pe.edu.br
+11,Adriano Honorato Braga,contato@adrianobraga.com.br
+12,Afram D S Meneses,afram.domingos@ifs.edu.br
+13,Alan Sombra,alan.sombra@ifce.edu.br
+14,Alan Teixeira de Oliveira,alan.oliveira@ifnmg.edu.br
+15,Alan Vinicius de Araújo Batista,alan.vinicius@ifce.edu.br
+16,Alberto Fabio da Silva Taveira,alberto.taveira@ifam.edu.br
+17,Alcindo José Dal Piva,alcindo.piva@gmail.com
+18,Alessandra Silva de Sousa Neves,alessandra.sousa@ifb.edu.br
+19,Alessandro Iavorski,alessandro.iavorski@ifc.edu.br
+20,Alessandro Silva Souza Oliveira,alessandro.oliveira@ifap.edu.br
+21,Alex Jussileno Viana Bezerra,alexleno@ifce.edu.br
+22,Alex Oliveira Botelho,diretorgeral.barbacena@ifsudestemg.edu.br
+23,Alexandre Ataide Carniato,carniato@ifsp.edu.br
+24,Alexandre Fieno da Silva (Pouso Alegre),alexandre.silva@ifsuldeminas.edu.br
+25,Alexandre Krüger Zocolotti,akruger@ifes.edu.br
+26,Alexandre Torrezam,alexandre.torrezam@ifmt.edu.br
+27,Aline Cavalcante Ferreira,aline@ifrr.edu.br
+28,Aline Ferreira da Silva,aline.silva@ifs.edu.br
+29,Aline Freitas,diretoria.cefor@ifes.edu.br
+30,Aline Manke Nachtigall,aline.manke@ifsuldeminas.edu.br
+31,Aline Provedel Dib,aline.dib@ifsc.edu.br
+32,ALINE QUARESMA SANTOS,aline.pamponet@ifba.edu.br
+33,Álisson Rodrigo Vieira,arvdigo@gmail.com
+34,Alyne Cristina Sodré Lima,alyne.lima@ifap.edu.br
+35,Alysson Santos Barreto,alysson.barreto@academico.ifs.edu.br
+36,Amanda Silva (DDI),amanda.silva@ifnmg.edu.br
+37,Amélia Cristina Reis e Silva,amelia.reis@ifrn.edu.br
+38,Amilton de Moura de Figueiredo,amilton.figueiredo@ifrs.edu.br
+39,Amir Tauille,amir.tauille@veranopolis.ifrs.edu.br
+40,Ana Carolina Oliveira,carolina@conif.org.br
+41,Ana Cláudia Gonçalves de Sá Jardim,ana.sa@ifnmg.edu.br
+42,Ana Cláudia Uchôa Araújo,ana@ifce.edu.br
+43,Ana Fortaleza Pardo,ana.fortaleza@vacaria.ifrs.edu.br
+44,Ana Kelly Arantes,ana.arantes@ifmg.edu.br
+45,Ana Paula Gonçalves de Oliveira,anapaula.oliveira@ifsudestemg.edu.br
+46,Anderson Allan Almeida Galvão,anderson.galvao@ifb.edu.br
+47,Anderson Braulio Nóbrega da Silva,anderson.silva@ifpb.edu.br
+48,Anderson Martins Corrêa,anderson.correa@ifms.edu.br
+49,ANDERSON OLIVEIRA DA SILVA,anderson.silva@ifma.edu.br
+50,André Batista de Souza,andresouza@ifes.edu.br
+51,André Gustavo de Sousa Galdino,andre.galdino@ifes.edu.br
+52,André Luis Rocha de Souza,andresouza@ifba.edu.br
+53,Andre Luiz de Jesus Goncalves,andre.goncalves@ifg.edu.br
+54,André Narvaes da Rocha Campos,andre.campos@ifsudestemg.edu.br
+55,André Zuconelli,andre.zuconelli@ifc.edu.br
+56,Andrea Marques Rosa Eduardo,andrea.rosa@ifms.edu.br
+57,Andréa Poletto Sonza,andrea.sonza@ifrs.edu.br
+58,Andreilson Oliveira,andreilson.o.silva@gmail.com
+59,Andressa Cristina de Andrade,andresa.andrade@ifb.edu.br
+60,Angela Maria Chaves Miranda,angela.miranda@ifap.edu.br
+61,Anna Carolina Salgado Jardim,annajardim@ifsp.edu.br
+62,Anna Catharina da Costa Dantas,anna.dantas@ifrn.edu.br
+63,Antonio Vitor Ribeiro dos Santos,antonio.santos@ifma.edu.br
+64,Ariadine de Oliveira Rabelo da Silva,ariadine.rabelo@ifce.edu.br
+65,Arlem Souto Barros,arlem.souto@ifbaiano.edu.br
+66,Aurea Yuki Sugai,aurea.sugai@iff.edu.br
+67,Aurino César Santiago de Souza,proad@reitoria.ifpe.edu.br
+68,Ayla Márcia Cordeiro Bizerra,ayla.bizerra@ifrn.edu.br
+69,Bárbarah Sorgetz,barbarah.sorgetz@ifc.edu.br
+70,Benedito Enaldo Araujo de Oliveira,benedito.enaldo@ifpi.edu.br
+71,Braulio Quirino Siffert,braulio.siffert@ifnmg.edu.br
+72,Brenda Tarcício da Silva,brenda.silva@ifsuldeminas.edu.br
+73,Breno Henrique Pedroso Araujo,breno.araujo@ifap.edu.br
+74,Breno Ursulino,breno.anderson@ifce.edu.br
+75,bruce,bruce.albuquerque@ifro.edu.br
+76,Bruna Suelen Pereira Cebuliski,bruna.cebuliski@ifap.edu.br
+77,Bruno Cavalcanti Lima,dg.cac@ifrj.edu.br
+78,Bruno Quirino Leal,bruno.leal@ifg.edu.br
+79,CAMILA DE ALMEIDA SOUSA,camilaalmeida@ifba.edu.br
+80,Canuto Diogenes Saldanha Neto,diogenes.saldanha@ifce.edu.br
+81,Carine de Oliveira Nunes,carinediem@gmail.com
+82,Carla Comerlato Jardim,carla.jardim@iffarroupilha.edu.br
+83,Carla Isabel dos Santos,carla.isabel@ifsp.edu.br
+84,Carlito Barros,carlito.barros69@gmail.com
+85,Carlos Alberto Brasiliano Campos,carlos.campos@belojardim.ifpe.edu.br
+86,Carlos Antônio Barbosa Firmino,firmino@ifma.edu.br
+87,Carlos Augusto Sanguedo Boynard,boynard.carlos@gsuite.iff.edu.br
+88,Carlos Eduardo Campos Freire,eduardo.freire@ifrn.edu.br
+89,Carlos José dos Santos (Três Corações),carlos.santos@ifsuldeminas.edu.br
+90,Carlos Mariano Melo Júnior,carlos.melo@ifs.edu.br
+91,Carlos Roberto Paviotti,carlinhos@ifsp.edu.br
+92,Carolina Barros,Carolinabarros@ifsul.edu.br
+93,Carolina Mandarini Dias,carolmandarinidias@ifsp.edu.br
+94,Carolina Mendonça de Moraes Duarte,carolina.duarte@ifal.edu.br
+95,Cecília Danielle Bezerra Oliveira,Cecilia.oliveira@ifpb.edu.br
+96,Christine Rebouças Lourenço,christine.lourenco@ifb.edu.br
+97,Cillas Pollicarto da Silva,cillas.silva@ifpi.edu.br
+98,Clarisse Cordeiro Medeiros,clarisse.medeiros@ifma.edu.br
+99,Claudemir Mariotti Junior,juniormariotti@ifsp.edu.br
+100,Claudia da Cunha Monte Oliveira,claudiac@ifes.edu.br
+101,CLAUDIA DA SILVA FERREIRA,claudiaifes@gmail.com
+102,Claudia Santos Fernandes,claudia.fernandes@ifms.edu.br
+103,Claudio de Sousa Galvão,claudiogalvao@ifto.edu.br
+104,Claudio Ferreira Oliveira,claudio.oliveira@ifce.edu.br
+105,Claudio Henrique Fernandes,claudio.fernandes@ifto.edu.br
+106,CLAUDIO ROBERTO DE LIMA MARTINS,direcao.dti@ifpa.edu.br
+107,Clayton Silva Mendes (Reitoria),clayton.mendes@ifsuldeminas.edu.br
+108,Cleilton Sampaio de Farias,cleilton.farias@ifac.edu.br
+109,Clemilton da Silva Ferreira,clemil@ifce.edu.br
+110,Cleone Silva,cleonecc@gmail.com
+111,CLESIO JONAS DE OLIVEIRA DA SILVA,clesio.jonas@ifsertao-pe.edu.br
+112,Cleverton Juliano Alves Vicentini,cleverton.vicentini@ifpr.edu.br
+113,Cristian Cipriani,cristian.cipriani@ifap.edu.br
+114,Cristiane Borges Braga,cristianeborges@ifce.edu.br
+115,Cristiane Milliorin,gabinete.campolargo@ifpr.edu.br
+116,Cristiano Antônio Pochmann,direcao.srs@ifc.edu.br
+117,Cristina Coutinho de Oliveira,cristina.oliveira@ifap.edu.br
+118,Cristóvão Gomes Plácido Júnior,cristovao.junior@ifam.edu.br
+119,Daiane Heinzen,dheinzen@ifsc.edu.br
+120,Daniel Augusto de Oliveira,danielaugusto.oliveira@ifsudestemg.edu.br
+121,Daniel Bussolaro,daniel.bussolaro@ifpr.edu.br
+122,Daniel Ferreira de Castro,danielcastro@ifce.edu.br
+123,Daniela Balduino de Souza Vieira,dbalduino@iff.edu.br
+124,Danielle Freire Paoloni,danielle@iftm.edu.br
+125,DANIELLE REGINA ULLRICH,direcao.cacador@ifsc.edu.br
+126,DANILO SANTOS SOUZA,danilo-souza@ifba.edu.br
+127,Daryl de Oliveira Abejdid,daryl.abejdid@ifac.edu.br
+128,Davi Cézar da Silva,davi.silva@ifc.edu.br
+129,David Silva Franco,david.franco@ifmg.edu.br
+130,David Washington Freitas Lima,david.lima@ifam.edu.br
+131,DAYONNE SOARES DOS SANTOS,dayonnesoares@ifpi.edu.br
+132,Deir Oliveira de Oliveira,deiroliveira@ifsp.edu.br
+133,Denise Santos,proreitor.proad@ifpa.edu.br
+134,Deuselio Bassini Fioresi,deus.elio40@gmail.com
+135,DIEGO ALBINO MARTINS,diego.martins@ifsc.edu.br
+136,Diego de Abreu Porcellis,diegoporcellis@ifsul.edu.br
+137,Diego Goltara Gomes,diego.gomes@ifsc.edu.br
+138,Diego Nones Bissigo,diego.bissigo@ifsc.edu.br
+139,Diego Silva Xavier,diego.xavier@ifg.edu.br
+140,Diego Ximenes Macedo,diego.macedo@ifce.edu.br
+141,Dielle Filocre,dielle.filocre@ifs.edu.br
+142,Diná Santana de Sousa,dina.santana@ifce.edu.br
+143,Dirceu Silva Dácio,dirceu.silva@ifam.edu.br
+144,Direcao - Campus Tubarao,direcao.tub@ifsc.edu.br
+145,Direção Geral Campus Barreiros,dg@barreiros.ifpe.edu.br
+146,Direção Geral Campus Ipojuca,dgci@ipojuca.ifpe.edu.br
+147,Direcao Geral do Campus Canoinhas,direcao.canoinhas@ifsc.edu.br
+148,Direcao Geral do Campus Garopaba,direcao.garopaba@ifsc.edu.br
+149,Direção Geral IFPE- Campus Afogados da Ingazeira,direcaogeral@afogados.ifpe.edu.br
+150,Direção Geral Sabará,dge.sabara@ifmg.edu.br
+151,Direcao Sao Carlos,direcao.saocarlos@ifsc.edu.br
+152,Direcao-Geral - SLO,direcao.slo@ifsc.edu.br
+153,Direção-Geral: IFC Brusque,direcao.brusque@ifc.edu.br
+154,Diretoria da Assistência Estudantil,dirae@ifrj.edu.br
+155,Diretoria de Comunicacao do IFSC,dir.com@ifsc.edu.br
+156,DIRETORIA DE TECNOLOGIA DA INFORMAÇÃO DTI,dti@reitoria.ifpe.edu.br
+157,Diretoria de Tecnologia da Informacao e Comunicacao,dtic@ifsc.edu.br
+158,Diretoria Geral Campus Parque Olimpico,dg.cpo@ifrj.edu.br
+159,Diretoria Geral do Campus Avançado Mesquita,dg.cmesq@ifrj.edu.br
+160,Diretoria-Geral - Campus Paracambi,dg.cpar@ifrj.edu.br
+161,Diretoria-Geral Campus Engenheiro Paulo de Frontin,dg.cepf@ifrj.edu.br
+162,Diretoria-Geral do Campus Volta Redonda,dg.cvr@ifrj.edu.br
+163,Douglas Hörner,douglas.horner@ifc.edu.br
+164,Eder Junior Cruz de Souza,eder.souza@ifal.edu.br
+165,Edilany Mendonca Vales,edilany.vales@ifap.edu.br
+166,Edilson Ap Bueno,edilson@ifsp.edu.br
+167,Edinei Canuto Paiva,edinei.paiva@ifnmg.edu.br
+168,Edison Cesar de Faria Nogueira,dg.cnil@ifrj.edu.br
+169,Edmar Vinicius de Carvalho,edmar.carvalho@ifto.edu.br
+170,Ednaldo Miranda de Oliveira,ednaldo.oliveira@ifes.edu.br
+171,Edu Gomes Da Silva,edu.silva@ifac.edu.br
+172,Eduardo Jardel Veiga Gonçalves,eduardogoncalves@iftm.edu.br
+173,Eduardo José de Carvalho,eduardo.carvalho@ifap.edu.br
+174,Edvaldo Martins de Melo,edvaldo.melo@ifes.edu.br
+175,Edvanio Chagas,edvanio.chagas@ifms.edu.br
+176,Eglon Rhuan Salazar Guimarães,eglon@ifes.edu.br
+177,elen.rosa@ifbaiano.edu.br,elen.rosa@ifbaiano.edu.br
+178,Elenilson Silva Oliveira,elenilson@ifam.edu.br
+179,Eliana Cristina Bar,proen@ifsc.edu.br
+180,Eliane Mahl,elianemahl@gmail.com
+181,Élida Maria Cardoso Brito,elida.brito@ifpi.edu.br
+182,Eloana Costa de Morais,eloana@ifes.edu.br
+183,Elodir Lourenço de Souza,elodir.souza2021@gmail.com
+184,Eloísa Aparecida da Silva Ávila,eloisa.avila@ifg.edu.br
+185,Elvira Alessandra Mariquito,alessandra.mariquito@ifpr.edu.br
+186,Emanuel Alves de Moura,emanuel@ifrr.edu.br
+187,Emanuel Neto Alves de Oliveira,emanuel.oliveira@ifrn.edu.br
+188,Emanuele Catarina da Silva Oliveira,emanuele.oliveira@ifes.edu.br
+189,Emanuelle Andrezza Vidal dos Santos,emanuelle.andrezza@ifce.edu.br
+190,Emmanuel Wassermann Moraes e Luz,emmanuel.luz@ifpi.edu.br
+191,Eptacio Neco da Silva,eptacio.neco@ifpi.edu.br
+192,ERCULES MACHADO ROCHA,ercules.rocha@ifba.edu.br
+193,Érica Crosara,ericacrosara@iftm.edu.br
+194,Erick Renan Xavier de Oliveira,erick.xavier@ifpr.edu.br
+195,Erika Justa,erikadajusta@ifce.edu.br
+196,Eros Silva Spalla,spalla@ifes.edu.br
+197,Eudis Oliveira Teixeira,eudis.oliveira@ifsertao-pe.edu.br
+198,Eugenio De Felice Zampini,eugenio.zampini@ifsp.edu.br
+199,Eunice Palmeira / PRPPI - IFAL,eunicepalmeira@ifal.edu.br
+200,eurobruno,bruno.venancio@ifrn.edu.br
+201,Ewerton Gasparetto da Silva,ewerton.gasparetto@ifpi.edu.br
+202,Ezequiel Lopes do Carmo,ezequiel.carmo@ifto.edu.br
+203,Fabian Eduardo Debenedetti Carbajal,fabiancarbajal@ifsul.edu.br
+204,Fabiana da Silva Campos Almeida,proen@ifrj.edu.br
+205,Fabiana Júlia de Araújo Tenório,direcao@pesqueira.ifpe.edu.br
+206,Fabiana Zanelato Bertolde,fabianabertolde@ifba.edu.br
+207,Fabiano Boscaglia,fabiano.boscaglia@ifes.edu.br
+208,Fábio André Porto Alves,fabio.andre@ifsertao-pe.edu.br
+209,Fábio Cabral,cabral@ifsp.edu.br
+210,Fábio de Albuquerque Silva,fabio.albuquerque@ifpb.edu.br
+211,Fabio Henrique de Oliveira Silva,fabio.silva@ifmt.edu.br
+212,Fabio Lyrio Santos,fabio.santos@ifes.edu.br
+213,Fábio Ribeiro,fabio.ribeiro@ifal.edu.br
+214,Fabio Roberto Moraes Lemes,fabiolemes@ifsul.edu.br
+215,Fabricia Nadja De Oliveira Freire,fabricia.nadja@ifsertao-pe.edu.br
+216,Fabricio Faria,fabricio.tavares@ifsudestemg.edu.br
+217,Fabrício Ribeiro Ribeiro,fabricio.ribeiro@ifap.edu.br
+218,Felipe Augusto Ferreira de Almeida,felipe.almeida@ifsp.edu.br
+219,Felipe Brener Bezerra de Oliveira,felipe.oliveira@ifap.edu.br
+220,FELIPE DE ANGELIS,felipeangelis@mec.gov.br
+221,Felipe Thiago Caldeira de Souza,felipe.souza@ifal.edu.br
+222,FERNANDA ALVES DE SANTANA,fernanda.santana@ifbaiano.edu.br
+223,Fernanda dos Santos Nogueira,fernanda.nogueira@ifes.edu.br
+224,Fernanda Figueiredo Torres,fernanda.torres@conif.org.br
+225,Fernanda Honorato,fernanda.honorato@ifmg.edu.br
+226,FERNANDO ANTONIO CARVALHO DE LIMA,fernando.lima@ifma.edu.br
+227,Fernando Barreto Rodrigues fernando.barreto,fernando.barreto@ifnmg.edu.br
+228,Fernando Carneiro / DTI - IFAL,fernando.carneiro@ifal.edu.br
+229,Fernando Henrique Gomes de Souza,fernando.souza@ifsp.edu.br
+230,Fernando Rufino de Barros,fernando.barros@iff.edu.br
+231,Fernando Silva Lima,fernando.silva@ifma.edu.br
+232,Fernando Silveira Alves,fernando.alves@ifms.edu.br
+233,Firmiano Alexandre dos Reis Silva,firmiano@iftm.edu.br
+234,FLAVIA DUARTE FERRAZ SAMPAIO,flavia.sampaio@ifes.edu.br
+235,Flávia Twardowski,flavia.pinto@ifrs.edu.br
+236,Flavio Aparecido Pontes,flaviopontes@ifsp.edu.br
+237,Flávio Glória Caminada Sabrá,dg.cbel@ifrj.edu.br
+238,Flavio Guilherme de Abreu Drumond,flavio.drumond@ifto.edu.br
+239,Flávio José Ribeiro,dg.cpx@ifrj.edu.br
+240,Flávio Rocha Puff,flavio.puff@ifmg.edu.br
+241,Franciéric Alves,eric@ifpi.edu.br
+242,Franciolli Silva Dantas de Araújo,franciolli.araujo@ifap.edu.br
+243,Francisca Lucia Sousa de Aguiar,lucia.aguiar@ifce.edu.br
+244,Francisco De Assis De Lima Gama,francisco.gama@ifsertao-pe.edu.br
+245,Francisco Do Nascimento Junior,francisco.junior@jaboatao.ifpe.edu.br
+246,Francisco Evandro de Melo,evandromelo@ifce.edu.br
+247,Francisco Hamilton Junior,francisco.hamilton@ifsertao-pe.edu.br
+248,Francisco Heber da Silva,heber.silva@ifce.edu.br
+249,Francisco Jadilson dos Santos Silva,francisco.jadilson@ifma.edu.br
+250,FRANCISCO NOGUEIRA LIMA,nogueira@ifpi.edu.br
+251,GABRIELA COSTA,gabriela.freitas@ifba.edu.br
+252,Geangelo de Matos Rosa,geangelo.rosa@ifbaiano.edu.br
+253,Gedeval Paiva,gedeval@gmail.com
+254,Gelson Luiz Clemente Rodrigues,gelson.rodrigues@ifpi.edu.br
+255,George Gaudêncio,george.gaudencio@paulista.ifpe.edu.br
+256,George Jose dos Santos Lima,georgelima@ifpi.edu.br
+257,Geovane Griesang,geovanegriesang@ifsul.edu.br
+258,Gerffeson Thiago Mota de Almeida Silva,gerffeson.mota@ifpi.edu.br
+259,Germano Lucio Pereira Moura,germanolucio@ifpi.edu.br
+260,Germano Teixeira Cruz,germano.cruz@ifb.edu.br
+261,Gesilane de Oliveira Maciel Jose,gesilane.jose@ifms.edu.br
+262,Gesus de Almeida Trindade,gesus.trindade@ifba.edu.br
+263,Giancarlo de França Aguiar,giancarlo.aguiar@ifpr.edu.br
+264,giano.copetti@ifb.edu.br,giano.copetti@ifb.edu.br
+265,Gilberto Neto,gilberto.neto@ifal.edu.br
+266,Gilceli Chagas Moura,gilceli.moura@ifap.edu.br
+267,Gildo Sousa dos Santos Junior,gildo.junior@ifrr.edu.br
+268,Giorgia Suzumura,giorgia.suzumura@ifsp.edu.br
+269,Giovani Calerri,Giovani.junior@ifrr.edu.br
+270,Gisley Lima de Menezes,gisley.menezes@ifpr.edu.br
+271,Gismar Schilive de Souza,gismar.souza@ifpr.edu.br
+272,Givaldo Oliveira dos Santos,givaldo.oliveira@ifal.edu.br
+273,Gláucio José Pereira da Silva,glaucio.silva@iff.edu.br
+274,Gleyce Figueiredo de Lima,dg.csg@ifrj.edu.br
+275,Graziela Ninck Dias Menezes,grazielaninck@ifba.edu.br
+276,Guilherme Henrique Koerich,guilherme.koerich@ifsc.edu.br
+277,Guilherme Mendes de Almeida Carvalho guilherme.carvalho,guilherme.carvalho@ifnmg.edu.br
+278,Gustavo Pereira Pessoa,gustavo.pessoa@ifmg.edu.br
+279,Haroldo Lacerda de Brito,haroldo.brito@ifmg.edu.br
+280,Heider Alves Franco,heider.franco@ifrj.edu.br
+281,Heitor Hermeson de Carvalho Rodrigues,heitor.rodrigues@ifce.edu.br
+282,Hellen da Silva Cintra de Paula,hellen.paula@ifg.edu.br
+283,Heloísa Helena de Abreu Martind,heloisa.martins@ifbaiano.edu.br
+284,Henrique Ziglia Maia,henriquemaia@ifsul.edu.br
+285,Heverton Lima de Andrade,heverton.andrade@ifal.edu.br
+286,HIngryd Inácio de Freitas,hifreitas@ifba.edu.br
+287,Humberto Coelho de Melo,humberto.melo@ifmg.edu.br
+288,Inara Erice de Souza Alves Raulino Lopes,inara.raulino@ifpi.edu.br
+289,Ione,ione.velame@ifg.edu.br
+290,Irinéia Rosa do Nascimento,irineia.rosa@ifs.edu.br
+291,Isa Prazeres Pestana,isa.prazeres@ifma.edu.br
+292,Israel Vinagre Pinto,israel.pinto@ifap.edu.br
+293,Ivam Holanda de Souza,ivam@ifce.edu.br
+294,Ivani Ferreira,ivani.ferreira@ifpr.edu.br
+295,Ivo Cardoso de Jesus,ivocardoso@ifba.edu.br
+296,Izolina Angela da Silva Borges Lima,izolina.borges@ifma.edu.br
+297,Jackson Pantoja Lima,jackson.lima@ifam.edu.br
+298,Jacqueline Aparecida da Fonseca Martins,jacqueline.martins@ifrj.edu.br
+299,Jacson Hudson Inácio Ferreira,jacson@iftm.edu.br
+300,Jacssane do Couto (Reitoria),jacssane.couto@ifsuldeminas.edu.br
+301,Jaidson Brandão da Costa,jaidson.costa@ifam.edu.br
+302,Jairton Mendonca,jairton.mendonca@ifs.edu.br
+303,Janaína de Assis Rufino,janaina.rufino@ifsudestemg.edu.br
+304,JANAINA PERES,janaina@ifpi.edu.br
+305,Jandherson Moura Silva,jandherson.silva@ifma.edu.br
+306,Jane Velma dos Santos Brito,janevelma.brito@ifs.edu.br
+307,Jânio Fernandes e Silva,janio.silva@ifma.edu.br
+308,JEAN CARLOS GITASSI,JEAN.GETASSI@IFSC.EDU.BR
+309,Jeferson Fernando de Souza Wolff,jefersonwolff@ifsul.edu.br
+310,Jenice Almeida Lopes Diniz,jenice.diniz@ifpi.edu.br
+311,Jeovani Machado Rodrigues,jeovani@ifma.edu.br
+312,Jerdmiler Gomes de Paiva,paiva.jerdmiler@ifrn.edu.br
+313,Jhonatan Dias Gomes,jhonatan.gomes@ifap.edu.br
+314,João Bezerra da Silva Junior,1654758@ifb.edu.br
+315,João da Paixão Soares,jpsoares@ifma.edu.br
+316,João Leandro,joao.cassio@ifnmg.edu.br
+317,João Luís Feitosa,jlafeitosa@yahoo.com.br
+318,Joelia Marques de Carvalho,joelia@ifce.edu.br
+319,Jonaldo Oliveira de Medeiros,jonaldo.medeiros@ifrn.edu.br
+320,JOSÉ ALVES JUNQUEIRA JUNIOR,jose.junqueira@ifsudestemg.edu.br
+321,José Arnóbio de Araújo Filho,arnobio.araujo@ifrn.edu.br
+322,José Aurimar dos Santos Angelim,aurimar.angelim@ifbaiano.edu.br
+323,Jose dos Santos de Moura,santos.moura@ifpi.edu.br
+324,José Franco de Azevedo,jose.franco@ifs.edu.br
+325,José Geraldo Bezerra Galvão Júnior,geraldo.junior@ifrn.edu.br
+326,José Hermano Cavalcanti Filho,jose.cavalcanti@ifpb.edu.br
+327,José Manoel Martins,jose.manoel@ifsudestemg.edu.br
+328,José Marcelo Velloso de Oliveira,dg.cnit@ifrj.edu.br
+329,José Osman dos Santos,Osman.santos@ifs.edu.br
+330,José Ricardo,josericardo@iftm.edu.br
+331,José Roberto,jose.santos@ifrn.edu.br
+332,Jose Roberto da Silva,j.roberto@ifsp.edu.br
+333,José Severino Bento,josebento@recife.ifpe.edu.br
+334,José Valdir Damascena Araújo,jvdaraujo@ifma.edu.br
+335,Jose Wally Meondonça Menezes,wally@ifce.edu.br
+336,José Werbet Ferreira da Silva,Josewerbet@ifma.edu.br
+337,José Willams Nogueira da Costa,jose.willams@ifsertao-pe.edu.br
+338,Jouberte Maria,prodin@reitoria.ifpe.edu.br
+339,Joyce Gracielle de Sousa Braga,joycebraga@iftm.edu.br
+340,Juliana Bárbara Moraes,jbarbara@ifsp.edu.br
+341,Juliana Ferreira de Queiroz,juliana.queiroz@ifto.edu.br
+342,Juliana Lucia do Amaral Molnr,juliana.molnr@ifsp.edu.br
+343,Juliana Rodrigues de Almeida,juliana.rodrigues@ifsudestemg.edu.br
+344,Juliano de Souza Caliari,juliano.caliari@ifsuldeminas.edu.br
+345,Julio Korzekwa,juliokorzekwa@ifsul.edu.br
+346,Júlio Xandro HEck,julio.heck@ifrs.edu.br
+347,Júnio Jáber,junio.jaber@ifnmg.edu.br
+348,Karine Andrade Fonseca,karine.fonseca@ifnmg.edu.br
+349,Karine Campos,karine.campos@ifap.edu.br
+350,Katia Cilene Costa Fernandes,katia.fernandes@ifg.edu.br
+351,Katia de Fatima Vilela,katiadefatimavilela@gmail.com
+352,Keila R M Mourao,proreitor.proex@ifpa.edu.br
+353,Kelvio Felipe dos Santos,felipe.kelvio@ifce.edu.br
+354,Keyla Oliveira da Silva,keyla.silva@ifac.edu.br
+355,Klemmerson Amariz Gomes,klemmerson.amariz@ifsertao-pe.edu.br
+356,Kleyton Matos Moreira,kleyton.moreira@ifto.edu.br
+357,LARA BRENDA CAMPOS TEIXEIRA KUHN,larakuhn@iftm.edu.br
+358,Larissa Sussuarana Batista,larissa.batista@ifap.edu.br
+359,Laura Regine Silveira,laura.silveira@ifms.edu.br
+360,Lauro Santos Pinheiro,lauro.itz@ifma.edu.br
+361,Leandro Camatta de Assis,leandrocamatta@ifes.edu.br
+362,Leandro da Motta Borges,leandro.borges@ifsudestemg.edu.br
+363,LEANDRO DOS SANTOS DAMASCENO,leandro.damasceno@ifbaiano.edu.br
+364,Leandro Lumbieri,leandro.lumbieri@farroupilha.ifrs.edu.br
+365,Leandro Roberto Baran,leandro.baran@ifpr.edu.br
+366,Lenon Araújo der Matos,lenon.araujo@gsuite.iff.edu.br
+367,Leonardo Bertholdo,leonardo.assis@ifsudestemg.edu.br
+368,Leonardo de Miranda Siqueira,leonardo.siqueira@ifes.edu.br
+369,Leonardo de Paiva Barbosa,leonardo.paiva@ifmg.edu.br
+370,Leonardo Freitas Galvão de Albuquerque,leonardo.freitas@ifce.edu.br
+371,Leovegildo Branco Dominice Neto,leovegildo.neto@ifma.edu.br
+372,Leticia Carvalho Pivetta,leticia.carvalho@ifro.edu.br
+373,Letícia Martins de Martins,leticia.martins@rolante.ifrs.edu.br
+374,Liana Siqueira do Nascimento Marreiro Thomaz,liana.marreiro@ifpi.edu.br
+375,Lídia B. Paiva Tomaz,lidia@iftm.edu.br
+376,Liliane Silva Penã Oliveira,liliane.oliveira@ifmt.edu.br
+377,Lincoln Tavares dos Santos,lincoln.santos@igarassu.ifpe.edu.br
+378,Lindemberg Costa Junior,lindemberg.junior@ifma.edu.br
+379,Lívia Tâmara Alves de Macêdo,livia@ifpi.edu.br
+380,Lorena Faustino,lorena.faustino@ifrn.edu.br
+381,Lorena Pereira de Souza Rosa,lorena.rosa@ifg.edu.br
+382,Lourenilson Leal de Sousa,lourenilson@ifpi.edu.br
+383,Luam de Oliveira Santos,luam.santos@ifs.edu.br
+384,LUCAS BORGES,lucasfborges034@gmail.com
+385,Lucas Vanini,lucasvanini@ifsul.edu.br
+386,Lucia Scott Franco de Camargo Azzi Collet,lucia.collet@ifsp.edu.br
+387,Luciana Cleide da Cruz Damasceno,dgp@ifbaiano.edu.br
+388,Luciana dos Santos Tavares,direcao.geral@olinda.ifpe.edu.br
+389,Luciana Leandro Silva,luciana.silva@ifrr.edu.br
+390,Luciana Maria Klamt,luciana.klamt@ifmt.edu.br
+391,Luciana Rocha,luciana.rocha@ifpi.edu.br
+392,Luciano Martignoni,luciano.martignoni@ifpr.edu.br
+393,Lucila Picoli,lucila@ifes.edu.br
+394,Lucilene de Sousa Melo,lucilene.melo@ifap.edu.br
+395,Luis Lucas Dantas da Silva,direcao@vitoria.ifpe.edu.br
+396,Luis Osete Ribeiro Carvalho,luis.osete@ifsertao-pe.edu.br
+397,Luísa Luz Marçal,proppi@ifrj.edu.br
+398,Luiz Adriano,luiz.adriano@ifto.edu.br
+399,Luiz Alberto Chaves Junior,dg.csjm@ifrj.edu.br
+400,Luiz Eduardo Guedes,luiz.guedes@ifac.edu.br
+401,Luygo Sarmento Guedes,luygo.guedes@ifap.edu.br
+402,Mac Suara Lopes de Souza,mac.suara@ifam.edu.br
+403,Magadã Marinho Rocha de Lira,magadanlira@gmail.com
+404,Maick da Silveira Viana,proex@ifsc.edu.br
+405,Maíra Maciel Mattos de Oliveira,mairammoliveira@gmail.com
+406,Manassés Ribeiro,direcao.videira@ifc.edu.br
+407,Manoel Alves Cordeiro Neto,manoel.neto1@ifsertao-pe.edu.br
+408,Manoel Paiva de Araújo Neto,manoel.paiva@ifce.edu.br
+409,Marcel Ribeiro Mendonca,marcel.ribeiro@ifce.edu.br
+410,Marcela dos Santos Sá,marcela.sa@ifrr.edu.br
+411,Marcelito Trindade Almeida,marcelito.almeida@ifbaiano.edu.br
+412,Marcelo Andrade,marcelo.andrade@ifce.edu.br
+413,Marcelo Bataglin,marcelo.bataglin@iffarroupilha.edu.br
+414,Marcelo Lima Calixto,marcelo.calixto@feliz.ifrs.edu.br
+415,Márcio Melo de Oliveira,marcio@ifba.edu.br
+416,Marcio Rodrigo Nunes de Souza,marcio.souza@ifap.edu.br
+417,Marco Antonio Goiabeira Torreao Filho,marco.filho@ifma.edu.br
+418,Marcos Antônio Dell'Orto Morgado,marcos.morgado@ifes.edu.br
+419,Marcos César Eugênio Botta,marcoscesar@iftm.edu.br
+420,Marcos Flavio Mercio de Oliveira,marcos.oliveira@ifg.edu.br
+421,Marcos Maia,marcos.maia@ifpr.edu.br
+422,Marcos Pereira dos Santos,marcos.pereira@ifs.edu.br
+423,Marcos Roberto da Silva,marcossilvabiral@gmail.com
+424,Marcos Vinícius Montanari,marcos.montanari@ifnmg.edu.br
+425,Marcus Buraslan,marcus.buraslan@ifap.edu.br
+426,Marcus Fogaça,marcus.fogaca@conif.org.br
+427,MARIA CLARA BEZERRA DE ARAUJO,clara.bezerra@ifrn.edu.br
+428,Maria de Fátima Neves Cabral,direcao.geral@abreuelima.ifpe.edu.br
+429,Maria Lucia Fernandes Barroso,maria.barroso@ifap.edu.br
+430,Maria Lúcia Gabriel Ricardo Batista Freire,lucia.silva@ifal.edu.br
+431,Maria Michele Colaco Pinheiro,michele.colaco@ifce.edu.br
+432,Marilda Pontes Lacerda da Silva,marilda.lacerda@ifpr.edu.br
+433,Marinelma Costa Meireles,marinelma.meireles@ifma.edu.br
+434,Mario de Oliveira Rebouças Neto,mario.oliveira@ifce.edu.br
+435,Mario Wedney de Lima Moreira,mario.wedney@ifce.edu.br
+436,Maron Stanley Silva Oliveira Gomes,maron@ifma.edu.br
+437,Martinho Correia Barros,martinho.correia@ifam.edu.br
+438,Mary Roberta Meira Marinho,mary.marinho@ifpb.edu.br
+439,Matsunaga Paulo de Oliveira Sekiguchi,matsunaga.sekiguchi@ifac.edu.br
+440,Mauricio Donato de Moura Junior,mauricio.junior@ifto.edu.br
+441,Mauricio Martins Taques,mtaques@ifsc.edu.br
+442,Mauro André Barbosa Cunha,maurocunha@ifsul.edu.br
+443,Mayara de Sousa Guimarães Fonseca,mayara.fonseca@ifpb.edu.br
+444,Mayara Salgado Silva,silvams@ifce.edu.br
+445,MESSENAS MIRANDA ROCHA,messenas.rocha@ifes.edu.br
+446,Miguel Angelo Pereira Dinis,migueldinis@ifsul.edu.br
+447,Milton Maciel Flores Junior,miltonmf@ifto.edu.br
+448,Mirella Januario Magioni,mirella.magioni@ifrr.edu.br
+449,Murilo Secchieri de Carvalho,murilo.carvalho@ifsp.edu.br
+450,Nádia Ferreira de Andrade Esmeraldo,nadia.andrade@ifce.edu.br
+451,Nadine de Biagi Ziesemer,nadine.biagi@ifpr.edu.br
+452,Nalva Maria Rodrigues de Sousa,nalva@ifpi.edu.br
+453,Natália Ferraz Pavanelli,natalia.ormond@ifmt.edu.br
+454,Natalino Da Silva Reis,natalino.reis@ifap.edu.br
+455,Natanaildo Fernandes,natanaildobf@gmail.com
+456,Nataniel Mendes da Silva,nataniel@ifma.edu.br
+457,Natasha Cristina da Silva Costa,natasha.costa@ifap.edu.br
+458,Nathália Bastos Lima,nathalia.bastos@iff.edu.br
+459,Nathalia Luiz de Freitas Braga,nathaliadefreitas@yahoo.com.br
+460,Nayron Rocha,nayron@gmail.com
+461,Neilson Oliveira da Silva,neilson.silva@ifap.edu.br
+462,Nelson Santos,nelson.santos@ifba.edu.br
+463,Neudy Alexandro Demichei,neudy.demichei@ifrs.edu.br
+464,Nicolas Andretti de Souza Neves,nicolas@ifam.edu.br
+465,Nídia Heringer,nidia.heringer@iffarroupilha.edu.br
+466,Nilra Jane F. Bezerra,nilrajane@ifrr.edu.br
+467,Nilton Nélio Cometti,nilton.cometti@gmail.com
+468,Nilva Maria dos Santos Rodrigues,nilva.rodrigues@ifg.edu.br
+469,Nilvan Carvalho Melo,nilvan.melo@ifap.edu.br
+470,Noemi Barreto Sales Zukowski,zukowski@ifto.edu.br
+471,Norma Souza de Oliveira,norma@ifba.edu.br
+472,Odimógenes Soares Lopes,odimogenes@ifpi.edu.br
+473,Olavo Nylander Brito Neto,olavo.brito@ifap.edu.br
+474,ONEIDA CRISTINA GOMES BARCELOS IRIGON,oneida.irigon@ifg.edu.br
+475,Ozenice Silva dos Santos,ozenice.silva@ifbaiano.edu.br
+476,Patricia Amorim,patricyageo@gmail.com
+477,Patrícia Nogueira Hübler,patricia.hubler@canoas.ifrs.edu.br
+478,Paula Andrea Grawieski Civiero,paula.civiero@ifc.edu.br
+479,Paulo César Lopes de Arruda,paulo.arruda@ifpi.edu.br
+480,Paulo Henrique,paulohenrique@ifpi.edu.br
+481,Paulo Henrique de Carvalho Bueno,paulo.bueno@ifpi.edu.br
+482,Paulo Henrique Rocha Aride,aride@ifam.edu.br
+483,Paulo Henrique Sales Wanderley,paulo.wanderley@ifb.edu.br
+484,Paulo Henrique Silva Ribeiro,paulo.henrique@ifb.edu.br
+485,Paulo Sergio Horst,paulo.horst@ifpr.edu.br
+486,Pedro Clei Sanches Macedo,pedro.macedo@ifap.edu.br
+487,Peterson Medeiros Colares,peterson@ifam.edu.br
+488,Plinio Alexandre dos Santos Caetano,plinio@ifsp.edu.br
+489,Priscila Porta Nova de Oliveira,priscila.oliveira@iffarroupilha.edu.br
+490,PRISCILA VALE,priscila.vale@ifba.edu.br
+491,Priscylla Dietz Ferreira Amaral,priscylla.amaral@ifg.edu.br
+492,Pró-Reitoria de Planejamento e Administração,proad@ifrj.edu.br
+493,PROAD - IFC,proad@ifc.edu.br
+494,PROREITOR PROGEP,proreitor.progep@ifpa.edu.br
+495,Proreitor PROPPG,proreitor.proppg@ifpa.edu.br
+496,Raelisson do Nascimento Walter,raelisson.walter@ifac.edu.br
+497,Rafael Bastos,rafaelbastos@ifsul.edu.br
+498,Rafael Krolow Santos Silva,pl-dirger@ifsul.edu.br
+499,Rafael Martins Chaves,rafael.chaves@ifmt.edu.br
+500,Rafael Martins Ribeiro,rafael.ribeiro@ifmg.edu.br
+501,Raimundo Nonato,prof.nonato@ifpi.edu.br
+502,Raimundo Nonato Assunção de Sousa,raimundofilho@ifma.edu.br
+503,Raimundo Pio Mendes Vieira Júnior,raimundo.pio@ifpi.edu.br
+504,Ramon Gustavo Teodoro Marques da Silva (Reitoria),ramon.silva@ifsuldeminas.edu.br
+505,Raphael Augusto Vaz dos Santos,raphael.vaz@ifro.edu.br
+506,Raphael Siqueira Fontes,raphael.fontes@ifrn.edu.br
+507,Rebeca Marcilio Araujo Capdeville Campanha,raraujo@iff.edu.br
+508,Reginaldo Vagner Ferreira,reginaldo.ferreira@ifmg.edu.br
+509,Reginaldo Vicente Ribeiro,reginaldo.ribeiro@ifmt.edu.br
+510,Reinaldo,reinaldo.reis@ifg.edu.br
+511,Reinaldo de Araújo Lopes,reinaldo.lopes@ifpi.edu.br
+512,Rejane Tavares Magalhaes da Cunha,rejanetavares@ifce.edu.br
+513,Renata Francisca Ferreira Lopes,renata.lopes@ifmt.edu.br
+514,Renata Marques dos Santos,renatamarques@iftm.edu.br
+515,Renato Afonso Cota Silva renato.cota,renato.cota@ifnmg.edu.br
+516,Renato Aparecido de Souza (Reitoria),renato.souza@ifsuldeminas.edu.br
+517,Renato Delmonico,renato.delmonico@ifro.edu.br
+518,Renato Marinho Brandão Santos,renato.marinho@ifrn.edu.br
+519,Reuber Saraiva de Santiago,reuber@ifce.edu.br
+520,Reynaldo Tancredo Amim,reynaldo.amim@iff.edu.br
+521,Ricardo José Ferreira,ricardo.ferreira@ifpb.edu.br
+522,Ricardo Monteiro Rocha,ricardo.rocha@ifs.edu.br
+523,Ricardo Rodrigues de Souza,ricardo.souza@ifpr.edu.br
+524,Ricardo Wiliam Pinheiro,ricardopinheiro@iftm.edu.br
+525,Ricardo Zanchett,direcao.xanxere@ifsc.edu.br
+526,Roberta Mouzzana Cutrim Costa,roberta.costa@ifma.edu.br
+527,Robson Caldas de Oliveira,2086160@ifb.edu.br
+528,Robson da Silva Siqueira,siqueira@ifce.edu.br
+529,Robson Malacarne,robson.malacarne@ifes.edu.br
+530,Robson Trevisan,robson.trevisan@ifap.edu.br
+531,Rodrigo Fernandes Fonseca,rodrigo.fonseca@ifam.edu.br
+532,Rodrigo Luiz Neves Barros,rodrigo.barros@ifrr.edu.br
+533,Rodrigo Oliveira Porto,rodrigo.porto@ifto.edu.br
+534,Rodrigo Otávio Câmara Monteiro,rodrigo.monteiro@bento.ifrs.edu.br
+535,Rodrigo Ricelly Avelino Leite,rodrigoricelly@gmail.com
+536,Roger Almeida Gomes,roger.gomes@ifce.edu.br
+537,Rogério de Mesquita Teles,rogerioteles@ifma.edu.br
+538,Rogério de Souza Versage,direcao.fln@ifsc.edu.br
+539,Romaro Silva,romaro.silva@ifap.edu.br
+540,Rômulo Alves de Oliveira,romulo.oliveira@ifs.edu.br
+541,Romulo Ifes,romuloifes@gmail.com
+542,Rômulo Spósito das Virgens,rsvagro@gmail.com
+543,Ronaldo Simão de Oliveira,ronaldo.oliveira@ifbaiano.edu.br
+544,Rosana Abbud Olivete,rosana.abbud@ifsp.edu.br
+545,Rosangela Santos da Silva,rosangela.santos@ifam.edu.br
+546,Rosiani Salviano Barros,rosiani.barros@ifap.edu.br
+547,ROSILENE DE SÁ RIBEIRO,rosilene@ifes.edu.br
+548,Rosilene dos Anjos Sant'Ana,rosilene.santana@ifnmg.edu.br
+549,Rossana Barros Silveira,rossana@ifce.edu.br
+550,Rubens Maciel Miranda Pinheiro,rubens.pinheiro@ifce.edu.br
+551,Ruberley Rodrigues de Souza,ruberley.souza@ifg.edu.br
+552,Rui Gonçalves de Souza,rui.goncalves@ifsudestemg.edu.br
+553,Ruthelle Maria de Carvalho Sousa,ruthelle.carvalho@ifpi.edu.br
+554,Samara Viana,samaraviana@ifpi.edu.br
+555,Samira Fernandes Delgado,samira.delgado@ifrn.edu.br
+556,Samuel de Carvalho Andrade,samuel.andrade@ifap.edu.br
+557,Samuel de Oliveira,samuel.de.oliveira@ifmg.edu.br
+558,Samuel Lázaro Luz Lemos,samuel.lemos@ifce.edu.br
+559,Sanandreia Torezani Perinni,sanandreia@ifes.edu.br
+560,SANDRA ABADIA FERREIRA,sandra.ferreira@ifg.edu.br
+561,Sandra Aparecida da Silva Pereira,sandra.pereira@cabo.ifpe.edu.br
+562,Sandra Ines Horn Bohm,sandra.bohm@ifap.edu.br
+563,Sandra Vieira,sandra.vieira@ifc.edu.br
+564,Sandro Farias Pinto,sandro.pinto@ifsudestemg.edu.br
+565,Saulo Carvalho de Souza Timóteo,saulodede@ifto.edu.br
+566,Saulo Henrique da Mata,saulodamata@iftm.edu.br
+567,Selma Silva Bezerra,selma.bezerra@ifal.edu.br
+568,Sergio Luiz de Freitas Maia,sergio@iftm.edu.br
+569,Sérgio Luiz Pereira Nunes,sergio.nunes@ifac.edu.br
+570,Sergio Wesner Viana,sergio.viana@poa.ifrs.edu.br
+571,Silvana Lazzarotto Schmitt,silvana.schmitt@ifpr.edu.br
+572,Silvani da Silva Wingler,silvanis@ifes.edu.br
+573,Silvilene Souza da Silva,sylsousyl@gmail.com
+574,Silvio Anderson Toledo Fernandes,silvio.fernandes@ifsudestemg.edu.br
+575,Siméa Paula de Carvalho Ceballos,simea.pceballos@gmail.com
+576,Simone Silva,direcao.palhoca@ifsc.edu.br
+577,Sonia Carla Gravena Candido da Silva,sonia.carla@ifro.edu.br
+578,Suede Barbosa,suedesb@gmail.com
+579,suzenilde costa maciel,suzenilde.maciel@ifma.edu.br
+580,Tangriane Hainiski Ramos,tangriane.ramos@ifpr.edu.br
+581,Tania Mara Miyashiro Sasaki,tania.sasaki@ifms.edu.br
+582,Tarso Latorraca Casadei,tarso.latorraca@ifrn.edu.br
+583,Tatiana Weber,tatiana.weber@ifrs.edu.br
+584,Tatiane Cristina Ferreira Santos Trombim,tatiane.trombim@ifap.edu.br
+585,Tatiane da Silva Campos,tatiane.silva@ifsc.edu.br
+586,Taua Carvalho de Assis,taua.assis@ifg.edu.br
+587,Tereza Rocha,dg.cduc@ifrj.edu.br
+588,Tereza Talyta Carvalho de Moura,tereza.talyta@ifma.edu.br
+589,Thais Leite,thaisleite@ifba.edu.br
+590,Thales Bittencourt,thales.oliveira@iff.edu.br
+591,Theo Bravo Pinheiro,theo.pinheiro@iff.edu.br
+592,Thiago,thiago.gomes@ifnmg.edu.br
+593,Thiago Matos Pinto,thiago.pinto@ifrj.edu.br
+594,Thiago Mello,p2400mhz@gmail.com
+595,Thiego Maciel Nunes,thiego.nunes@ifap.edu.br
+596,Tiago Gomes de Araujo,tiago.araujo@ifg.edu.br
+597,TIAGO PEDRADA,tiago.pedrada@ifap.edu.br
+598,Tiago Semprebom,proppi@ifsc.edu.br
+599,Tomás Armando del Pozo Hernández,tomas.hernandez@ifrr.edu.br
+600,ÚRSULA MARIA FRANCO MONTEIRO MALAQUIAS,ursula.franco@ifpi.edu.br
+601,Vagner Euzebio Bastos,vagnerbastos@ifsul.edu.br
+602,Valdenor Santos Oliveira,valdenor.oliveira@ifmt.edu.br
+603,Valdiná Regis Lopes Feitosa,valdina.feitosa@ifb.edu.br
+604,Valdomir Araujo de Carvalho,valdomir@ifma.edu.br
+605,Valeria Regina,valeria.carvalho@ifrn.edu.br
+606,Valmir Soares - Diretor IFCE Limoeiro do Norte,valmir.soares@ifce.edu.br
+607,Valter Lenine Fernandes,valterfernandes@ifsul.edu.br
+608,Vanderluce Moreira Machado Oliveira,vanderluce.machado@ifmt.edu.br
+609,Vanessa Grando,grando@ifsc.edu.br
+610,Vanicleia Oliveira Da Silva,vanicleia.oliveira@ifsertao-pe.edu.br
+611,Venilson Luciano Benigno Fonseca,venilson.luciano@ifmg.edu.br
+612,Vera Brito,vlfbrito@gmail.com
+613,Vera Rejane Gomes,verarejane@ifma.edu.br
+614,Vilmar Fernandes,vilmar.fernandes@ifpr.edu.br
+615,Vilson Heck Junior,direcao.lages@ifsc.edu.br
+616,Vinicius Carvalhaes,vinicius.carvalhaes@ifg.edu.br
+617,Vinícius Chrysóstomo Silva,vsilva@iff.edu.br
+618,Vinicius De Luca Filho,vinidelucca@gmail.com
+619,viniciusdias,vinicius.dias@ifpi.edu.br
+620,virgilio araripe,virgilio@ifce.edu.br
+621,Vivian Facundes Dantas,vivian@ifto.edu.br
+622,Viviane Campanhola Bortoluzzi,viviane.bortoluzzi@ifrs.edu.br
+623,Wagner Belo,wagner.belo@ifsp.edu.br
+624,Wagner Leite Araujo,wagner.leite@ifnmg.edu.br
+625,Wallace Magalhaes Trindade wallace.trindade,wallace.trindade@ifnmg.edu.br
+626,Wallas Siqueira Jardim,wallas.jardim@ifnmg.edu.br
+627,Wanderson Amaral da Silva,wanderson.silva@iff.edu.br
+628,Wanderson Luis Henrique Faustino,wanderson.faustino@ifms.edu.br
+629,Washington Luis Ferreira Conceição,washington.conceicao@ifma.edu.br
+630,Weimar Silva Castilho,weimar@ifto.edu.br
+631,Welkson Nascimento,welkson.nascimento@ifs.edu.br
+632,Wellington Spencer Peixoto,wspeixoto@ifal.edu.br
+633,Wemerton Luis Evangelista,wemerton.evangelista@ifmg.edu.br
+634,Wilian Santos de Souza,wiliansantos@iftm.edu.br
+635,Willerson Custódio da Silva,willerson.silva@ifmg.edu.br
+636,William Corrêa Mendes,william.mendes@ifma.edu.br
+637,Willian Silva de Paula,willian.paula@ifmt.edu.br
+638,Wilson Augusto Costa Cabral,wilson.cabral@ifes.edu.br
+639,Wilson José Vieira da Costa,wilson.costa@ifmg.edu.br
+640,Wyara Da Silva Do Espirito Santo,wyara.espiritosanto@ifsertao-pe.edu.br
+641,Yuri Luna,luna.yuri0@gmail.com
+642,Zizimo Moreira Filho,zizimo@ifsc.edu.br
+643,Zoroastro Pereira de Araújo Neto,zoroastro.neto@ifal.edu.br
