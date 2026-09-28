@@ -6,6 +6,7 @@ import streamlit as st
 st.set_page_config(page_title="Painel", layout="wide")
 
 DATA_PATH_REDITEC = "formulario.csv"
+DATA_PATH_CONVIDADOS = "convidados.csv"
 
 MULTI_SELECT_COLS = {
     "O que mais busca nesta Reditec?": "Busca dos participantes",
@@ -29,7 +30,10 @@ INTEREST_COLS = {
 
 # ==================== Aba: Inscricoes ====================
 def render_Inscricoes():
-    df = pd.read_csv("inscricoes.csv")
+    df_todos = pd.read_csv(DATA_PATH_CONVIDADOS, encoding="utf-8-sig", sep=";")
+
+    # Só os convidados que já concluíram a inscrição
+    df = df_todos[df_todos["Situação"] == "inscrito"].copy()
 
     df["Dominio"] = df["Email"].str.split("@").str[1]
     df_if = df[df["Dominio"].str.startswith("if", na=False)]
@@ -40,7 +44,8 @@ def render_Inscricoes():
     st.metric("Total de inscritos", total_inscritos)
 
     st.subheader("Dados das inscrições")
-    dados_exibição = df.drop(columns=["Dominio"])
+    colunas_ocultas = ["Dominio", "ID", "Situação", "Data de Envio", "Data de Inscrição", "Data de Revogação"]
+    dados_exibição = df.drop(columns=colunas_ocultas, errors="ignore")
     st.dataframe(dados_exibição, use_container_width=True)
 
     contagem = df_if["Dominio"].value_counts().reset_index()
@@ -201,7 +206,11 @@ def render_reditec():
         if "Há quantas edições participa da Reditec?" in df.columns:
             counts = df["Há quantas edições participa da Reditec?"].dropna().value_counts()
             st.plotly_chart(bar_from_counts(counts, "Edições da Reditec já participadas"), use_container_width=True)
- 
+
+    if "Instância a que se vincula na Reditec" in df.columns:
+        counts = df["Instância a que se vincula na Reditec"].dropna().value_counts()
+        st.plotly_chart(bar_from_counts(counts, "Inscritos por instância de vínculo"), use_container_width=True)
+
     if "Instituição" in df.columns:
         counts = df["Instituição"].dropna().value_counts().head(20)
         st.plotly_chart(bar_from_counts(counts, "Top 20 instituições"), use_container_width=True)
