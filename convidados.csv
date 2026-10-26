@@ -20,7 +20,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962128894562578;"Adriana Valeria Gomes Coriolano de Medeiros";valeria.coriolano@ifsertao-pe.edu.br;Gestores;inscrito;"2026-09-09 16:32:55";"2026-09-22 09:49:49";
 962126717772662;"Adriano Araújo da Silva";dg.santarem@ifpa.edu.br;Gestores;enviado;"2026-09-28 10:27:11";;
 965447969697105;"Adriano Honorato Braga";adriano.braga@ifgoiano.edu.br;Gestores;inscrito;"2026-09-19 01:42:38";"2026-09-21 10:41:21";
-962131662919647;"Adriano Marcos Dantas da Silva";adriano.silva@ifro.edu.br;Gestores;inscrito;"2026-09-28 10:27:17";"2026-10-01 15:01:54";
+962131662919647;"Adriano Marcos Dantas da Silva";adriano.silva@ifro.edu.br;Gestores;inscricao_cancelada;"2026-09-28 10:27:17";"2026-10-01 15:01:54";
 962119942707181;"Adriano Mesquita Oliveira";dg.gua@ifes.edu.br;Gestores;inscrito;"2026-09-09 15:56:20";"2026-09-25 16:15:43";
 962128894887528;"Adriano Willian da Silva Viana Pereira";adriano.silva@ifpr.edu.br;Gestores;enviado;"2026-09-28 12:29:37";;
 962123779246775;"Aécio Oliveira de Miranda";aecio.miranda@ifnmg.edu.br;Gestores;inscrito;"2026-09-28 12:29:41";"2026-09-28 16:50:09";
@@ -31,6 +31,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 960424802662762;"Alan Teixeira de Oliveira";alan.vca@gmail.com;;inscricao_cancelada;"2026-09-11 09:21:41";"2026-09-11 09:25:01";
 962391988233503;"Alan Vinicius de Araujo Barbosa";alan.vinicius@ifce.edu.br;Gestores;inscrito;"2026-09-10 10:26:06";"2026-09-10 12:59:30";
 962099377006525;"Alana Chocorosqui Fernandes";alana.fernandes@ifac.edu.br;Gestores;inscrito;"2026-09-09 14:40:07";"2026-09-26 20:59:39";
+977005346283811;"Alayne Duarte Amorim";alayneduarte@cp2.g12.br;Gestores;inscrito;"2026-10-21 17:25:42";"2026-10-21 20:47:21";
 962134237841081;"Albano Dias Pereira Filho";albano.filho@ifto.edu.br;Gestores;enviado;"2026-09-28 12:29:50";;
 966635534602329;"Alberto Fabio da Silva Taveira";alberto.taveira@ifam.edu.br;Gestores;inscrito;"2026-09-22 10:10:21";"2026-09-22 10:50:11";
 962126717457186;"Alceu Aparecido Cardoso";alceu.cardoso@ifmt.edu.br;Gestores;enviado;"2026-09-28 12:29:52";;
@@ -69,6 +70,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962130280937843;"Allan Nilson de Sousa Dantas";allan.dantas@ifrn.edu.br;Gestores;enviado;"2026-09-28 12:30:10";;
 965447859111335;"Althiéris de Souza Saraiva";althieris.saraiva@ifgoiano.edu.br;Gestores;inscrito;"2026-09-19 01:42:38";"2026-09-26 15:36:57";
 962108972508839;"Alyne Cristina Sodré Lima";alyne.lima@ifap.edu.br;Gestores;inscrito;"2026-09-09 15:24:13";"2026-09-10 20:28:14";
+976984020475664;"Alysson Andre Regis Oliveira";alysson.oliveira@ifpb.edu.br;Gestores;inscrito;"2026-10-21 15:58:37";"2026-10-22 07:44:38";
 962133361818087;"Alysson Santos Barreto";alysson.barreto@ifs.edu.br;Gestores;inscrito;"2026-09-09 16:52:11";"2026-09-14 09:59:44";
 962123779256295;"Amanda Ferreira Silva e Almeida";amanda.silva@ifnmg.edu.br;Gestores;inscrito;"2026-09-09 16:15:10";"2026-09-12 20:20:17";
 963920045240765;"Amanda Machado dos Santos Duarte";amandaduarte@mec.gov.br;Gestores;inscrito;"2026-09-28 21:57:41";"2026-09-29 15:14:57";
@@ -161,7 +163,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962130280798389;"Bruno Rafael Costa Venancio da Silva";bruno.venancio@ifrn.edu.br;Gestores;inscrito;"2026-09-09 16:38:29";"2026-09-09 17:15:39";
 962104635181669;"Bruno Rodrigo Tavares Araújo";bruno.araujo@ifal.edu.br;Gestores;inscrito;"2026-09-28 12:37:44";"2026-09-28 15:58:34";
 962128894328228;"Caetano Cláudio Pereira Júnior";dg@barreiros.ifpe.edu.br;Gestores;inscrito;"2026-09-09 16:32:55";"2026-09-17 06:47:59";
-975142260557556;"Camila Nagem Marques Vieira";camila.nagem@cp2.g12.br;Gestores;enviado;"2026-10-16 11:04:40";;
+975142260557556;"Camila Nagem Marques Vieira";camila.nagem@cp2.g12.br;Gestores;inscrito;"2026-10-16 11:04:40";"2026-10-21 21:00:09";
 963920045240767;"Camila Porto Fasolo";camilafasolo@mec.gov.br;Gestores;enviado;"2026-09-28 21:57:43";;
 974146340178163;"Camila Rios Batista";camilabatista@mec.gov.br;Gestores;inscrito;"2026-10-13 15:33:36";"2026-10-13 16:10:49";
 964968214230014;"Camilla de Almeida Sousa";camilaalmeida@ifba.edu.br;Gestores;inscrito;"2026-09-17 17:05:50";"2026-09-18 11:14:38";
@@ -179,6 +181,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962130280664799;"Carlos Augusto Sanguedo Boynard";boynard@iff.edu.br;Gestores;inscrito;"2026-09-09 16:38:29";"2026-09-11 14:37:13";
 962121828038548;"Carlos Cesar Teixeira Ferreira";carlos.ferreira@ifma.edu.br;Gestores;enviado;"2026-09-28 12:38:26";;
 962252170107135;"Carlos Dalla Nora";carlos.dallanora@ifpr.edu.br;Gestores;revogado;"2026-09-28 12:38:11";;"2026-10-05 22:22:57"
+976984085929696;"Carlos David de Carvalho Lobao";david.lobao@ifpb.edu.br;Gestores;inscrito;"2026-10-21 15:58:37";"2026-10-23 10:58:59";
 962130280916309;"Carlos Eduardo Campos Freire";eduardo.freire@ifrn.edu.br;Gestores;inscrito;"2026-09-09 16:38:29";"2026-09-17 17:08:05";
 962102049596483;"Carlos Guedes de Lacerda";carlos@ifal.edu.br;Gestores;inscrito;"2026-09-28 12:38:09";"2026-09-28 17:49:15";
 962130280996695;"Carlos Henrique Bezerra de Oliveira";carlos.bezerra@ifrn.edu.br;Gestores;enviado;"2026-09-28 12:36:18";;
@@ -186,7 +189,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962131662574450;"Carlos Jesus Anghinoni Correa";carloscorrea@ifsul.edu.br;Gestores;inscrito;"2026-09-09 16:43:55";"2026-09-28 08:41:56";
 962125359177736;"Carlos José dos Santos";carlos.santos@ifsuldeminas.edu.br;Gestores;inscrito;"2026-09-09 16:18:33";"2026-09-17 18:08:23";
 962133361888116;"Carlos Mariano Melo Júnior";carlos.melo@ifs.edu.br;Gestores;inscrito;"2026-09-09 16:52:11";"2026-09-23 13:57:51";
-962133361756034;"Carlos Menezes de Souza Junior";carlos.junior@ifs.edu.br;Gestores;enviado;"2026-10-20 10:27:54";;
+962133361756034;"Carlos Menezes de Souza Junior";carlos.junior@ifs.edu.br;Gestores;inscrito;"2026-10-20 10:27:54";"2026-10-20 17:20:50";
 966635534602322;"Carlos Roberto de Oliveira";carlos.oliveira@ifam.edu.br;Gestores;enviado;"2026-09-28 21:58:08";;
 962133361579578;"Carlos Roberto Paviotti";carlinhos@ifsp.edu.br;Gestores;inscrito;"2026-09-09 16:52:11";"2026-09-09 17:43:55";
 962131662528406;"Carlos Rodrigo Lehn";carlos.lehn@iffarroupilha.edu.br;Gestores;inscrito;"2026-09-28 12:36:06";"2026-10-09 14:48:23";
@@ -197,7 +200,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962102540941662;"Carolina Mendonça de Moraes Duarte";carolina.duarte@ifal.edu.br;Gestores;inscrito;"2026-09-09 14:58:20";"2026-09-11 06:24:50";
 962131662600296;"Carolina Mendonça Fernandes de Barros";carolinabarros@ifsul.edu.br;Gestores;inscrito;"2026-09-09 16:43:55";"2026-09-23 09:18:29";
 971665947488422;"Cássio Viana Santos";kmviana@ifba.edu.br;Gestores;enviado;"2026-10-06 15:19:55";;
-975212143914205;"Catarina Angelica Carvalho Pereira";catarina.angelica@ifpi.edu.br;Gestores;enviado;"2026-10-16 15:48:31";;
+975212143914205;"Catarina Angelica Carvalho Pereira";catarina.angelica@ifpi.edu.br;Gestores;inscrito;"2026-10-16 15:48:31";"2026-10-21 12:57:28";
 964221594153153;"Cecilia Danielle Bezerra Oliveira";cecilia.oliveira@ifpb.edu.br;Gestores;inscrito;"2026-09-15 14:27:54";"2026-09-16 07:43:13";
 963920045240769;"Charles Okama de Souza";charlessouza@mec.gov.br;Gestores;enviado;"2026-09-28 21:57:44";;
 962133361746677;"Chirlaine Cristine Goncalves";chirlaine.cristine@ifs.edu.br;Gestores;enviado;"2026-09-28 12:35:47";;
@@ -242,6 +245,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 972645372882229;"Cynthia Mota";cynthia.mota@ifrn.edu.br;Palestrantes;inscrito;"2026-10-09 09:45:00";"2026-10-09 10:43:10";
 962133691811714;"Daiane Aparecida de Melo Heinzen";direcao.jar@ifsc.edu.br;Gestores;inscrito;"2026-09-09 16:52:11";"2026-09-11 14:41:34";
 969186168679622;"Daiele Zuquetto Rosa";daiele.rosa@iffarroupilha.edu.br;Convidados;inscrito;"2026-09-29 15:09:36";"2026-09-29 15:51:46";
+977622893547837;"Daliene Andrade Guedes";dalieneandrade@mec.gov.br;Gestores;enviado;"2026-10-23 11:18:06";;
 962125358837071;"Daniel Augusto de Oliveira";danielaugusto.oliveira@ifsudestemg.edu.br;Gestores;inscrito;"2026-09-09 16:18:33";"2026-09-09 17:13:42";
 962252170103083;"Daniel Bussolaro";daniel.bussolaro@ifpr.edu.br;Gestores;inscrito;"2026-09-10 00:54:19";"2026-09-23 08:21:45";
 962098370520051;"Daniel Cardoso";daniel@conif.org.br;Convidados;enviado;"2026-09-28 12:35:05";;
@@ -279,6 +283,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 966336299275405;"Denilza da Silva Frade";frade.denise@ifsp.edu.br;Gestores;inscrito;"2026-09-28 21:58:03";"2026-09-29 00:41:14";
 962100792297857;"Denis Borges Tomio";denis.tomio@ifac.edu.br;Gestores;enviado;"2026-09-28 12:33:31";;
 964930118709637;"Denise Cristina Momo";denise.cristina@ifrn.edu.br;Palestrantes;inscrito;"2026-09-28 21:57:55";"2026-09-29 09:34:30";
+977622947296634;"Denise de Oliveira Bento";denisebento@mec.gov.br;Gestores;enviado;"2026-10-23 11:18:06";;
 962126717799081;"Denise Maithe Silva dos Santos";proreitor.proad@ifpa.edu.br;Gestores;inscrito;"2026-09-09 16:23:58";"2026-09-10 12:41:55";
 974123541938814;"Denise Maythe Silva dos Santos";denise.santos@ifpa.edu.br;Palestrantes;enviado;"2026-10-13 14:22:37";;
 966633704493168;"Denise Rosa Xavier";denise.xavier@iff.edu.br;Gestores;enviado;"2026-09-28 21:58:04";;
@@ -318,7 +323,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962104245966633;"Eder Junior Cruz de Souza";eder.souza@ifal.edu.br;Gestores;inscrito;"2026-09-09 14:58:20";"2026-09-09 15:47:24";
 962111519962688;"Edilany Mendonça Vales";edilany.vales@ifap.edu.br;Gestores;inscrito;"2026-09-09 15:24:13";"2026-09-09 15:51:49";
 962248114512497;"Edilson Aparecido Bueno";edilson@ifsp.edu.br;Gestores;inscrito;"2026-09-10 00:40:22";"2026-09-14 15:55:23";
-971243840886659;"Edilson Baniwa";seart.deling@povosindigenas.gov.br;Palestrantes;enviado;"2026-10-05 10:41:21";;
+971243840886659;"Edilson Baniwa";seart.deling@povosindigenas.gov.br;Palestrantes;inscrito;"2026-10-05 10:41:21";"2026-10-23 19:05:36";
 962123779121295;"Edinei Canuto Paiva";edinei.paiva@ifnmg.edu.br;Gestores;inscrito;"2026-09-09 16:15:10";"2026-09-09 16:38:43";
 962130280316596;"Edislene Galharde Maciel Lopes";prodin@ifrj.edu.br;Gestores;inscrito;"2026-09-28 21:57:35";"2026-09-29 20:21:21";
 962130280415676;"Edison César de Faria Nogueira";dg.cnil@ijrj.edu.br;Gestores;revogado;"2026-09-09 16:38:34";;"2026-09-14 16:36:49"
@@ -543,6 +548,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962123044508623;"Heloísa Cristina Pereira";heloisa.pereira@ifmg.edu.br;Gestores;inscrito;"2026-09-28 21:59:20";"2026-09-30 16:47:03";
 966342644910712;"Heloísa Helena de Abreu Martins";heloisa.martins@ifbaiano.edu.br;Gestores;inscrito;"2026-09-21 14:18:30";"2026-09-21 17:45:25";
 962131662629439;"Henrique Ziglia Maia";henriquemaia@ifsul.edu.br;Gestores;inscrito;"2026-09-09 16:43:59";"2026-09-17 13:35:57";
+977447103837286;"Herbert Souza";herbert.souza@ifpb.edu.br;Gestores;inscrito;"2026-10-22 23:22:38";"2026-10-23 09:28:17";
 962102635915477;"Heverton Lima de Andrade";heverton.andrade@ifal.edu.br;Gestores;inscrito;"2026-09-09 14:58:20";"2026-09-14 12:12:15";
 962252170103075;"Hingryd Inácio de Freitas";hifreitas@ifba.edu.br;Gestores;inscrito;"2026-09-10 00:54:23";"2026-09-18 00:29:32";
 962125359031303;"Honório José de Morais Neto";honorio.morais@ifsuldeminas.edu.br;Gestores;inscrito;"2026-09-28 21:59:30";"2026-09-29 14:06:58";
@@ -645,7 +651,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962133361804344;"Jose Augusto Andrade Filho";jose.andrade@ifs.edu.br;Gestores;enviado;"2026-09-28 22:00:45";;
 966342644910696;"Jose Aurimar dos Santos Angelim";aurimar.angelim@ifbaiano.edu.br;Gestores;inscrito;"2026-09-21 14:18:30";"2026-09-21 19:24:07";
 962252170103089;"José Barbosa Dias Júnior";jose.dias@ifpr.edu.br;Gestores;inscrito;"2026-09-28 22:01:02";"2026-09-30 14:47:18";
-962121828257573;"José Cardoso de Souza Filho";cardoso@ifma.edu.br;Gestores;enviado;"2026-09-28 22:01:38";;
+962121828257573;"José Cardoso de Souza Filho";cardoso@ifma.edu.br;Gestores;inscrito;"2026-09-28 22:01:38";"2026-10-21 10:28:59";
 971244645205650;"José Carlos (Rone)";jose.silverio@ifnmg.edu.br;Palestrantes;enviado;"2026-10-05 10:44:36";;
 962128894224454;"José Carlos de Sá Junior";carlos.sa@reitoria.ifpe.edu.br;Gestores;enviado;"2026-09-28 22:02:08";;
 962128894728185;"José dos Santos Moura";santos.moura@ifpi.edu.br;Gestores;inscrito;"2026-09-09 16:32:59";"2026-09-14 05:58:18";
@@ -792,6 +798,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962130280485736;"Luiz Alberto Chaves Júnior";dg.csjm@ifrj.edu.br;Gestores;inscrito;"2026-09-09 16:38:39";"2026-09-09 18:07:25";
 962130280596228;"Luiz Alberto Louzada Hosken";lhosken@iff.edu.br;Gestores;inscrito;"2026-09-28 22:02:12";"2026-09-29 07:38:39";
 962099874015644;"Luiz Eduardo Guedes";luiz.guedes@ifac.edu.br;Gestores;inscrito;"2026-09-09 14:40:07";"2026-09-09 17:25:06";
+977005505266224;"Luiz Felipe Guimaraes Bon";coord.grad@cp2.g12.br;Gestores;enviado;"2026-10-21 17:25:42";;
 962130281016228;"Luiz Fernando Dias Filho";fernando.dias@ifrn.edu.br;Gestores;enviado;"2026-09-28 22:02:13";;
 962125359047737;"Luiz Flávio Reis Fernandes";luiz.flavio@ifsuldeminas.edu.br;Gestores;inscrito;"2026-09-28 22:01:59";"2026-09-30 13:47:23";
 964570019325603;"Luiz Henrique de Azevedo Oliveira";luiz.oliveira@ifg.edu.br;Gestores;inscrito;"2026-09-16 14:05:37";"2026-09-24 17:24:59";
@@ -856,7 +863,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 971289998688944;"Marden Manuel Rodrigues Marques";mardenmarques@ufrrj.br;Convidados;inscrito;"2026-10-05 13:49:21";"2026-10-07 21:30:47";
 962130280781967;"Maria Clara Bezerra de Araujo";clara.bezerra@ifrn.edu.br;Gestores;inscrito;"2026-09-09 16:38:43";"2026-09-10 10:01:47";
 962102148142273;"Maria Cledilma Ferreira da Silva Costa";cledilma.costa@ifal.edu.br;Gestores;inscrito;"2026-09-28 22:01:44";"2026-10-05 12:47:27";
-964221594153149;"Maria Cleidenedia Morais Oliveira";cleidenedia@ifpb.edu.br;Gestores;enviado;"2026-09-28 22:03:00";;
+964221594153149;"Maria Cleidenedia Morais Oliveira";cleidenedia@ifpb.edu.br;Gestores;inscrito;"2026-09-28 22:03:00";"2026-10-20 21:22:13";
 969899948104358;"Maria Cristina Madeira da Silva";mariamadeira@mec.gov.br;Gestores;inscrito;"2026-10-01 15:37:34";"2026-10-07 18:54:30";
 962128894312200;"Maria de Fátima Neves Cabral";direcao.geral@abreuelima.ifpe.edu.br;Gestores;inscrito;"2026-09-09 16:33:03";"2026-09-16 13:02:58";
 966635534602315;"Maria Francisca Morais de Lima";francisca.lima@ifam.edu.br;Gestores;inscrito;"2026-09-28 22:03:13";"2026-09-30 17:55:33";
@@ -869,6 +876,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 971289998688936;"Maria Soraya Pereira Franco";msorayapf@gmail.com;Convidados;enviado;"2026-10-05 13:49:21";;
 962126717783941;"Maria Suely Ferreira Gomes";dg.crmb@ifpa.edu.br;Gestores;inscrito;"2026-09-09 16:24:04";"2026-09-24 11:58:17";
 964570019325590;"Mariana Magalhaes Nobrega";mariana.nobrega@ifg.edu.br;Gestores;enviado;"2026-09-28 22:03:06";;
+976958219904830;"Mariana Moreno Azevedo";dgp@ifrj.edu.br;Gestores;inscrito;"2026-10-21 14:13:17";"2026-10-21 21:11:50";
 962130281100850;"MARIANGELA BARICHELLO BARATTO";mariangela.baratto@ifrs.edu.br;Gestores;inscrito;"2026-09-09 16:38:43";"2026-09-23 17:08:13";
 962105550904189;"Mariano Alexandre da Silva Neto Filho";mariano.alexandre@ifal.edu.br;Gestores;enviado;"2026-09-28 22:01:45";;
 962252170107140;"Marilda Pontes Lacerda";marilda.lacerda@ifpr.edu.br;Gestores;inscrito;"2026-09-10 00:54:23";"2026-09-14 12:44:40";
@@ -924,7 +932,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962128894263310;"Nathalia da Mata Atroch";dae@reitoria.ifpe.edu.br;Gestores;revogado;"2026-09-09 16:33:03";;"2026-09-16 15:10:21"
 964585255478299;"Nathalia da Mata Atroch";nathaliaatrouch@recife.ifpe.edu.br;Gestores;revogado;"2026-09-16 15:07:29";;"2026-09-24 21:06:57"
 964594076347427;"Nathalia da Mata Atroch";nathaliaatroch@recife.ifpe.edu.br;Gestores;inscrito;"2026-09-16 15:43:22";"2026-09-24 19:38:46";
-966154227063438;"Nathalia da Mata Atroch";nathalia.atroch@recife.ifpe.edu.br;Gestores;revogado;"2026-09-21 01:31:54";;"2026-09-24 21:06:51"
+966154227063438;"Nathalia da Mata Atroch";nathalia.atroch@recife.ifpe.edu.br;Gestores;revogado;"2026-10-23 13:40:33";;"2026-10-23 13:40:38"
 962125359058123;"Nathália Luiz de Freitas Braga";nathalia.freitas@ifsuldeminas.edu.br;Gestores;inscrito;"2026-09-09 16:18:37";"2026-09-15 12:47:13";
 962794176828154;"Nathália Poloni Cabral";nathalia@ifes.edu.br;Gestores;inscrito;"2026-09-28 22:02:43";"2026-09-29 11:18:15";
 966342644915349;"Nayron Brito Rocha";nayron.rocha@ifbaiano.edu.br;Gestores;inscrito;"2026-09-21 14:18:30";"2026-09-21 18:48:57";
@@ -937,7 +945,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962131663065559;"Nilra Jane Filgueira Bezerra";nilrajane@ifrr.edu.br;Gestores;inscrito;"2026-09-09 16:44:03";"2026-09-09 21:36:31";
 962114865685088;"Nilton Nélio Cometti";nilton.cometti@ifb.edu.br;Gestores;revogado;"2026-09-28 22:01:47";;"2026-09-30 15:57:20"
 962380413051876;"Nilton Nélio Cometti";nilton.cometti@gmail.com;Gestores;inscrito;"2026-09-10 09:36:04";"2026-09-10 18:08:23";
-963920045240781;"Nilva Celestina do Carmo";NilvaCarmo@mec.gov.br;Gestores;enviado;"2026-09-28 22:02:53";;
+963920045240781;"Nilva Celestina do Carmo";NilvaCarmo@mec.gov.br;Gestores;inscrito;"2026-10-21 11:58:05";"2026-10-21 12:20:50";
 964570019325596;"Nilva Maria dos Santos Rodrigues";nilva.rodrigues@ifg.edu.br;Gestores;inscrito;"2026-09-16 14:05:37";"2026-09-17 18:09:55";
 962111912032102;"Nilvan Carvalho Melo";nilvan.melo@ifap.edu.br;Gestores;inscrito;"2026-09-09 15:24:18";"2026-09-10 20:01:04";
 966635534602328;"Nivaldo Rodrigues e Silva";nivaldo@ifam.edu.br;Gestores;enviado;"2026-09-28 22:03:14";;
@@ -957,6 +965,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 966342644910713;"Ozenice Silva dos Santos";ozenice.silva@ifbaiano.edu.br;Gestores;inscrito;"2026-09-21 14:18:30";"2026-09-21 18:32:28";
 967814958311139;"Pâmela Anderson Resende de Oliveira";pamela@iftm.edu.br;Palestrantes;enviado;"2026-09-28 22:06:05";;
 966342644915351;"Patrícia Amorim Silveira";patricia.silveira@ifbaiano.edu.br;Gestores;inscrito;"2026-09-21 14:18:30";"2026-09-22 15:39:39";
+976655416371754;"Patricia Horta";patricia@ifsp.edu.br;Gestores;enviado;"2026-10-20 17:41:11";;
 962130281206555;"PATRICIA NOGUEIRA HUBLER";patricia.hubler@canoas.ifrs.edu.br;Gestores;inscrito;"2026-09-09 16:38:43";"2026-09-10 16:24:28";
 975142260557561;"Patrícia Rosa da Silva Guterres";patricia_rosa@cp2.g12.br;Gestores;enviado;"2026-10-16 11:04:40";;
 962252170107123;"Patrícia Tiuman";patricia.tiuman@ifpr.edu.br;Gestores;inscrito;"2026-09-28 22:05:30";"2026-09-29 07:38:04";
@@ -1021,7 +1030,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962126717468458;"Reginaldo A. Medeiros";reginaldo.medeiros@ifmt.edu.br;Gestores;enviado;"2026-09-28 22:04:20";;
 962126717494605;"Reginaldo V. Ribeiro";reginaldo.ribeiro@ifmt.edu.br;Gestores;inscrito;"2026-09-09 16:24:07";"2026-09-14 17:03:07";
 962123044474727;"Reginaldo Vagner Ferreira";reginaldo.ferreira@ifmg.edu.br;Gestores;inscrito;"2026-09-09 16:08:51";"2026-09-09 17:06:42";
-962437790368386;"Reginato Fernandes dos Santos";reginato.fernandes@ifmg.edu.br;Gestores;enviado;"2026-09-28 22:05:43";;
+962437790368386;"Reginato Fernandes dos Santos";reginato.fernandes@ifmg.edu.br;Gestores;inscrito;"2026-09-28 22:05:43";"2026-10-22 20:41:01";
 962128894871508;"Reinaldo de Araújo Lopes";reinaldo.lopes@ifpi.edu.br;Gestores;inscrito;"2026-09-09 16:33:03";"2026-09-09 18:40:31";
 964570019322729;"Reinaldo de Lima Reis Junior";reinaldo.reis@ifg.edu.br;Gestores;inscrito;"2026-09-16 14:05:37";"2026-09-16 17:39:17";
 962134237939604;"Reinaldo Ferreira Medeiros";reinaldo.medeiros@ifto.edu.br;Gestores;enviado;"2026-09-28 22:05:27";;
@@ -1104,6 +1113,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962123779135053;"Rony Enderson de Oliveira";rony.enderson@ifnmg.edu.br;Gestores;inscrito;"2026-09-28 22:04:10";"2026-09-29 10:18:07";
 962115125853952;"Rosa Amélia Pereira da Silva";rosa.amelia@ifb.edu.br;Gestores;enviado;"2026-09-28 22:03:40";;
 962133361709570;"Rosana Abbud Olivete";rosana.abbud@ifsp.edu.br;Gestores;inscrito;"2026-09-09 16:52:24";"2026-09-15 20:07:30";
+976665875711811;"Rosana Meira Lima de Souza";rosana.lsouza@ufrpe.br;Convidados;inscrito;"2026-10-20 18:23:45";"2026-10-20 18:55:14";
 971403069417835;"Rosane  de Fátima Teixeira";rosane.teixeira@ifpr.edu.br;Gestores;enviado;"2026-10-05 21:31:42";;
 966635534599421;"Rosangela Santos da Silva";rosangela.santos@ifam.edu.br;Gestores;inscrito;"2026-09-22 10:10:21";"2026-09-22 12:17:48";
 962131663092509;"Roseli Bernardo Silva dos Santos";roseli@ifrr.edu.br;Gestores;enviado;"2026-09-28 22:05:07";;
@@ -1234,7 +1244,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962252170107130;"Vanessa Olher";vanessa.olher@ifpr.edu.br;Gestores;inscrito;"2026-09-28 22:05:40";"2026-10-05 18:09:59";
 962131663170176;"Vanessa Rufino Vale Vasconcelos";vanessa.vale@ifrr.edu.br;Gestores;enviado;"2026-09-28 22:05:09";;
 962128894520482;"Vanicleia Oliveira da Silva";vanicleia.oliveira@ifsertao-pe.edu.br;Gestores;inscrito;"2026-09-09 16:33:07";"2026-09-10 11:56:32";
-975142260557555;"Veneza da Silva Crizante";venezacrizante@cp2.g12.br;Gestores;enviado;"2026-10-16 11:04:40";;
+975142260557555;"Veneza da Silva Crizante";venezacrizante@cp2.g12.br;Gestores;inscrito;"2026-10-16 11:04:40";"2026-10-22 11:13:46";
 962123044457307;"Venilson Luciano Benigno Fonseca";venilson.luciano@ifmg.edu.br;Gestores;inscrito;"2026-09-09 16:08:51";"2026-09-15 14:48:46";
 966342644915350;"Vera Lucia Fernandes de Brito";vera.brito@ifbaiano.edu.br;Gestores;inscrito;"2026-09-21 14:18:36";"2026-09-22 12:05:54";
 962121828372430;"Vera Rejane Gomes";verarejane@ifma.edu.br;Gestores;inscrito;"2026-09-09 16:04:04";"2026-09-09 18:47:26";
@@ -1252,7 +1262,7 @@ ID;Nome;Email;"Categoria de inscrição";Situação;"Data de Envio";"Data de Ins
 962128894767734;"Vinicius Dias de Carvalho";vinicius.dias@ifpi.edu.br;Gestores;inscrito;"2026-09-09 16:33:07";"2026-09-10 09:30:07";
 962117772901937;"Virgilio Augusto Sales Araripe";virgilio@ifce.edu.br;Gestores;inscrito;"2026-09-09 15:49:01";"2026-09-14 15:39:33";
 962128894285585;"Virgínia Lúcia Goyveia e Silva";dope@reitoria.ifpe.edu.br;Gestores;inscrito;"2026-09-28 22:04:35";"2026-10-05 15:45:27";
-962128894479924;"Vitor Prates Lorenzo";vitor.lorenzo@ifsertao-pe.edu.br;Gestores;enviado;"2026-09-28 22:04:36";;
+962128894479924;"Vitor Prates Lorenzo";vitor.lorenzo@ifsertao-pe.edu.br;Gestores;inscrito;"2026-09-28 22:04:36";"2026-10-22 06:48:55";
 962134237797180;"Vivian Facundes Dantas";vivian@ifto.edu.br;Gestores;inscrito;"2026-09-09 16:54:18";"2026-09-14 19:47:59";
 962130281089060;"VIVIANE CAMPANHOLA BORTOLUZZI";viviane.bortoluzzi@ifrs.edu.br;Gestores;inscrito;"2026-09-09 16:38:47";"2026-09-10 09:42:25";
 962131663010859;"Viviane Cristina Camelo";viviane@ifro.edu.br;Gestores;enviado;"2026-09-28 22:05:12";;
